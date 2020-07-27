@@ -27,25 +27,45 @@ def kmp(mom_string, son_string,return_all=False):
                 next[i] = j
             else:
                 j = next[j]
+    if not return_all: # 下面这段是返回第一个符合的index的逻辑代码.
+        # kmp框架
+        m = s = 0  # 母指针和子指针初始化为0
+        while (s < len(son_string) and m < len(mom_string)):
+            # 匹配成功,或者遍历完母串匹配失败退出
+            if s == -1 or mom_string[m] == son_string[s]: # 表示当前2个指针对应字符相通,匹配陈宫.所以都向后便宜一个.
+                m += 1
+                s += 1
+            else:
+                s = next[s]
 
-    # kmp框架
-    m = s = 0  # 母指针和子指针初始化为0
-    while (s < len(son_string) and m < len(mom_string)):
-        # 匹配成功,或者遍历完母串匹配失败退出
-        if s == -1 or mom_string[m] == son_string[s]: # 表示当前2个指针对应字符相通,匹配陈宫.所以都向后便宜一个.
-            m += 1
-            s += 1
-        else:
-            s = next[s]
+        if s == len(son_string):  # 匹配成功
+            return m - s
+    else:
+        # kmp框架
+        save=[]
+        m = s = 0  # 母指针和子指针初始化为0
+        while m < len(mom_string):
+            # 匹配成功,或者遍历完母串匹配失败退出
+            if s == len(son_string):  # 匹配成功
+                save.append(m - s)
+                s=0
+            if s == -1 or mom_string[m] == son_string[s]: # 表示当前2个指针对应字符相通,匹配陈宫.所以都向后便宜一个.
+                m += 1
+                s += 1
 
-    if s == len(son_string):  # 匹配成功
-        return m - s
+            else:
+                s = next[s]
+        if s == len(son_string):  # 用来匹配最末未的一个陪陪成功的时候.
+            save.append(m - s)
+        return save
+
+
     # 匹配失败
     return -1
 
 
 # 测试
-mom_string = [1,3,4,5,3,4]
+mom_string = [1,3,4,5,3,5,4,3,4,3,4,6,7,3,4]
 son_string = [3,4]
 print(kmp(mom_string, son_string))
 print(kmp(mom_string, son_string,return_all=True))
