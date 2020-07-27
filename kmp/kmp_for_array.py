@@ -1,3 +1,9 @@
+
+'''
+已经完美搞定, 通过return_all参数来控制是否需要找全!
+
+'''
+
 def kmp(mom_string, son_string,return_all=False):
     # 传入一个母串和一个子串
     # 返回子串匹配上的第一个位置，若没有匹配上返回-1
@@ -65,7 +71,7 @@ def kmp(mom_string, son_string,return_all=False):
 
 
 # 测试
-mom_string = [1,3,4,5,3,5,4,3,4,3,4,6,7,3,4]
+mom_string = [3,4,1,3,4,5,3,5,4,3,4,3,4,6,7,3,4]
 son_string = [3,4]
 print(kmp(mom_string, son_string))
 print(kmp(mom_string, son_string,return_all=True))
