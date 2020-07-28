@@ -19,7 +19,7 @@ class ScaledDotProductAttention(nn.Module):
         attn = attn / self.temperature
 
         if mask is not None:
-            attn = attn.masked_fill(mask, -np.inf) # 如果是true 就用负无穷来替代. 所以下面做softmax之后,就让他的注意力为0了.因为本身这个pad 就只是填充用的,无意义.
+            attn = attn.masked_fill(mask, -np.inf) # 如果是true 就用负无穷来替代. 所以下面做softmax之后,就让他的注意力为0了.因为本身这个pad 就只是填充用的,无意义. mask的位置用-无穷来表示, 也就是softmax之后是0.
 
         attn = self.softmax(attn)
         attn = self.dropout(attn)

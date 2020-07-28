@@ -33,7 +33,7 @@ def get_sinusoid_encoding_table(n_position, d_hid, padding_idx=None):
 
 def get_attn_key_pad_mask(seq_k, seq_q):
     ''' For masking out the padding part of key sequence. '''
-
+# k是被查询的index,所以被查询的不能是pad.
     # Expand to fit the shape of key query attention matrix.
     len_q = seq_q.size(1)
     padding_mask = seq_k.eq(Constants.PAD)
@@ -81,7 +81,7 @@ class Encoder(nn.Module):
 
         # -- Prepare masks
         slf_attn_mask = get_attn_key_pad_mask(seq_k=src_seq, seq_q=src_seq)
-        non_pad_mask = get_non_pad_mask(src_seq)
+        non_pad_mask = get_non_pad_mask(src_seq) # 这个表示源数据也就是q里面的pad mask
 
         # -- Forward
         enc_output = self.src_word_emb(src_seq) + self.position_enc(src_pos)
@@ -126,10 +126,10 @@ class Decoder(nn.Module):
         dec_slf_attn_list, dec_enc_attn_list = [], []
 
         # -- Prepare masks
-        non_pad_mask = get_non_pad_mask(tgt_seq)
+        non_pad_mask = get_non_pad_mask(tgt_seq)  # tgt资深的pad mask
 
         slf_attn_mask_subseq = get_subsequent_mask(tgt_seq) # decode 时候需要做将来的都mask掉.
-        slf_attn_mask_keypad = get_attn_key_pad_mask(seq_k=tgt_seq, seq_q=tgt_seq)
+        slf_attn_mask_keypad = get_attn_key_pad_mask(seq_k=tgt_seq, seq_q=tgt_seq)# 被查询的key的mask
         slf_attn_mask = (slf_attn_mask_keypad + slf_attn_mask_subseq).gt(0) # 结合pad 和 future2个mask
 
         dec_enc_attn_mask = get_attn_key_pad_mask(seq_k=src_seq, seq_q=tgt_seq)

@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="" />
+    <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/学习roberta/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/1232312.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/README.custom_classification.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/README.glue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/README.pretraining.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/README.race.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/1.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/commonsense_qa_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/download_cqa_data.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/robertaLarge模型的调用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/roberta模型的调用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/multiprocessing_bpe_encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/preprocess_GLUE_tasks.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/preprocess_RACE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/preprocess_RACE.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/roberta论文.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/wsc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/wsc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/wsc/wsc_criterion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/wsc/wsc_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/wsc/wsc_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformer666/attention-is-all-you-need-pytorch最原始的版本--上课专用版/transformer/Models.py" beforeDir="false" afterPath="$PROJECT_DIR$/transformer666/attention-is-all-you-need-pytorch最原始的版本--上课专用版/transformer/Models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformer666/attention-is-all-you-need-pytorch最原始的版本--上课专用版/transformer/Modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/transformer666/attention-is-all-you-need-pytorch最原始的版本--上课专用版/transformer/Modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformer666/latest-vocab2/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/transformer666/latest-vocab2/train.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,25 +76,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/kmp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/文本生成/GPT2-Chinese-master/tokenizations/tokenization_bert_word_level.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习roberta\roberta\commonsense_qa" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习roberta\roberta" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习roberta" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\kmp" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\pic" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\transformer666\latest-vocab2" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\transformer-project_byFengge\latest-fixed_by_vocab" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\文本生成\huggingface重要例子" />
@@ -75,7 +103,29 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\爬虫999\otehr" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.kmp_for_array">
+  <component name="RunManager" selected="Python.1232312">
+    <configuration name="1232312" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="开普云nlp项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习roberta/roberta" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习roberta/roberta/1232312.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2312321超短kmp算法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="开普云nlp项目" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lstm方法做nlg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="roberta模型的调用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="开普云nlp项目" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,12 +178,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/传统方法做nlg" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\Users\Administrator\PycharmProjects\fairseq-gec\传统方法做nlg\lstm方法做nlg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/roberta模型的调用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="robertaLarge模型的调用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="开普云nlp项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习roberta\roberta\commonsense_qa\robertaLarge模型的调用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,65 +236,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="开普云nlp项目" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/transformer666/latest-vocab2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transformer666/latest-vocab2/train.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="train (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="开普云nlp项目" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/transformer666/attention-is-all-you-need-pytorch最原始的版本--上课专用版" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transformer666/attention-is-all-you-need-pytorch最原始的版本--上课专用版/train.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.lstm方法做nlg" />
-      <item itemvalue="Python.train (1)" />
-      <item itemvalue="Python.train (2)" />
       <item itemvalue="Python.2312321超短kmp算法" />
       <item itemvalue="Python.kmp_for_array" />
+      <item itemvalue="Python.robertaLarge模型的调用" />
+      <item itemvalue="Python.roberta模型的调用" />
+      <item itemvalue="Python.1232312" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1232312" />
+        <item itemvalue="Python.roberta模型的调用" />
+        <item itemvalue="Python.robertaLarge模型的调用" />
         <item itemvalue="Python.kmp_for_array" />
         <item itemvalue="Python.2312321超短kmp算法" />
-        <item itemvalue="Python.train (2)" />
-        <item itemvalue="Python.train (1)" />
-        <item itemvalue="Python.lstm方法做nlg" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +346,7 @@
       <workItem from="1595602872878" duration="24066000" />
       <workItem from="1595727845087" duration="2363000" />
       <workItem from="1595730828177" duration="14000" />
-      <workItem from="1595778885170" duration="9652000" />
+      <workItem from="1595778885170" duration="28076000" />
     </task>
     <servers />
   </component>
@@ -353,10 +381,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="81" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1595730532249" />
-    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595686672629">
+    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595926213171">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595686672629" />
+    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595926213171" />
     <state x="358" y="0" key="#run_language_modeling" timestamp="1595554241099">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -385,54 +413,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="146" key="GridCell.Tab.0.bottom" timestamp="1595822352679">
+    <state width="1237" height="224" key="GridCell.Tab.0.bottom" timestamp="1595926202273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="146" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595822352679" />
-    <state width="1237" height="146" key="GridCell.Tab.0.center" timestamp="1595822352679">
+    <state width="1237" height="224" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595926202273" />
+    <state width="1237" height="224" key="GridCell.Tab.0.center" timestamp="1595926202273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="146" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595822352679" />
-    <state width="1237" height="146" key="GridCell.Tab.0.left" timestamp="1595822352679">
+    <state width="1237" height="224" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595926202273" />
+    <state width="1237" height="224" key="GridCell.Tab.0.left" timestamp="1595926202273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="146" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595822352679" />
-    <state width="1237" height="146" key="GridCell.Tab.0.right" timestamp="1595822352679">
+    <state width="1237" height="224" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595926202273" />
+    <state width="1237" height="224" key="GridCell.Tab.0.right" timestamp="1595926202273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="146" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595822352679" />
-    <state width="1237" height="183" key="GridCell.Tab.1.bottom" timestamp="1595822135892">
+    <state width="1237" height="224" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595926202273" />
+    <state width="1237" height="224" key="GridCell.Tab.1.bottom" timestamp="1595926202273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595822135892" />
-    <state width="1237" height="183" key="GridCell.Tab.1.center" timestamp="1595822135892">
+    <state width="1237" height="224" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595926202273" />
+    <state width="1237" height="224" key="GridCell.Tab.1.center" timestamp="1595926202273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1595822135892" />
-    <state width="1237" height="183" key="GridCell.Tab.1.left" timestamp="1595822135892">
+    <state width="1237" height="224" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1595926202273" />
+    <state width="1237" height="224" key="GridCell.Tab.1.left" timestamp="1595926202273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1595822135892" />
-    <state width="1237" height="183" key="GridCell.Tab.1.right" timestamp="1595822135892">
+    <state width="1237" height="224" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1595926202273" />
+    <state width="1237" height="224" key="GridCell.Tab.1.right" timestamp="1595926202273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595822135892" />
+    <state width="1237" height="224" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595926202273" />
     <state x="169" y="0" key="SettingsEditor" timestamp="1595671417218">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="169" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595671417218" />
-    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1595668278698">
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1595922880783">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1595668278698" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1595922880783" />
     <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595664493150">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1595664493150" />
-    <state x="332" y="95" width="824" height="490" key="find.popup" timestamp="1595323675262">
+    <state x="332" y="95" width="824" height="490" key="find.popup" timestamp="1595923999607">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="332" y="95" width="824" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1595323675262" />
+    <state x="332" y="95" width="824" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1595923999607" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1595296729097">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -962,11 +990,6 @@
           <option name="timeStamp" value="280" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/transformer666/attention-is-all-you-need-pytorch最原始的版本--上课专用版/train.py</url>
-          <line>241</line>
-          <option name="timeStamp" value="281" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/transformer666/latest-fixed_by_vocab/train.py</url>
           <line>387</line>
           <option name="timeStamp" value="283" />
@@ -991,6 +1014,16 @@
           <line>50</line>
           <option name="timeStamp" value="289" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/robertaLarge模型的调用.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/roberta模型的调用.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1002,8 +1035,30 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="m" />
-        <watch expression="s" />
+        <watch expression="example" />
+        <watch expression="test_loader" />
+        <watch expression="test_data1" />
+        <watch expression="pred_seq" />
+        <watch expression="pred_line" />
+        <watch expression="len(tokenizer)" />
+        <watch expression="total_sequence" />
+        <watch expression="tokenizer" />
+        <watch expression="output_sequences" />
+        <watch expression="text" />
+        <watch expression="data" />
+        <watch expression="src_seq" />
+        <watch expression="src_pos" />
+        <watch expression="tgt_seq" language="Python" />
+        <watch expression="len(input_sentence)-(window if len(input_sentence)&gt;window" />
+        <watch expression="input_sentence[len(input_sentence)-(window if len(input_sentence)&gt;window else len(input_sentence)):]" />
+        <watch expression="tgt_seq" language="Python" />
+        <watch expression="seq_q" />
+        <watch expression="padding_mask" language="Python" />
+        <watch expression="roberta" />
+        <watch expression=" cPickle.dumps(enc_a_lst)" />
+        <watch expression="cPickle.dumps(enc_a_lst[0])" />
+        <watch expression="enc_a_lst" />
+        <watch expression="enc_a_lst[0]" />
       </configuration>
     </watches-manager>
   </component>
@@ -1012,8 +1067,8 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$1111111.coverage" NAME="1111111 Coverage Results" MODIFIED="1592953019525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$selium__1_.coverage" NAME="成功selium (1) Coverage Results" MODIFIED="1592960179243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_finetune.coverage" NAME="train_finetune Coverage Results" MODIFIED="1593411371905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
-    <SUITE FILE_PATH="coverage/nlp$21321312.coverage" NAME="21321312 Coverage Results" MODIFIED="1595209554529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Introduction-量化/main" />
     <SUITE FILE_PATH="coverage/nlp$nltk__1_.coverage" NAME="nltk句子分割算法 (1) Coverage Results" MODIFIED="1595225966266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句子分割算法" />
+    <SUITE FILE_PATH="coverage/nlp$21321312.coverage" NAME="21321312 Coverage Results" MODIFIED="1595922153727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
     <SUITE FILE_PATH="coverage/fairseq_gec$c.coverage" NAME="c Coverage Results" MODIFIED="1594741838162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989谢兄pickle处理bug/888888888888888/889" />
     <SUITE FILE_PATH="coverage/nlp$generate_samples_gpt2.coverage" NAME="generate_samples_gpt2 Coverage Results" MODIFIED="1595321402584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本生成/Megatron-LM-master/tools" />
     <SUITE FILE_PATH="coverage/fairseq_gec$encode.coverage" NAME="encode Coverage Results" MODIFIED="1594781664408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本生成/MASS/MASS-summarization" />
@@ -1021,6 +1076,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1594944823635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PreSumm2/src" />
     <SUITE FILE_PATH="coverage/nlp$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1595729866587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer666/latest" />
     <SUITE FILE_PATH="coverage/fairseq_gec$Doctests_in_filter.coverage" NAME="Doctests in filter Coverage Results" MODIFIED="1594952028511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiexi2-master加很多工具/这个文件夹用来存一个相关的项目包可以作为工具来使用/someUtils/textfilter" />
+    <SUITE FILE_PATH="coverage/nlp$1232312.coverage" NAME="1232312 Coverage Results" MODIFIED="1595926202258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习roberta/roberta" />
     <SUITE FILE_PATH="coverage/fairseq_gec$predict.coverage" NAME="predict Coverage Results" MODIFIED="1594217541813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train2.coverage" NAME="train2 Coverage Results" MODIFIED="1594943916206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PreSumm2/src" />
     <SUITE FILE_PATH="coverage/nlp$run_language_modeling.coverage" NAME="run_language_modeling Coverage Results" MODIFIED="1595564905317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/huggingface项目中重要例子/transformers/examples/language-modeling" />
@@ -1086,6 +1142,7 @@
     <SUITE FILE_PATH="coverage/nlp$2312321.coverage" NAME="2312321 Coverage Results" MODIFIED="1595819682503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kmp" />
     <SUITE FILE_PATH="coverage/fairseq_gec$predict__1_.coverage" NAME="predict (1) Coverage Results" MODIFIED="1594640858475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master2" />
     <SUITE FILE_PATH="coverage/fairseq_gec$22222222222222222.coverage" NAME="22222222222222222 Coverage Results" MODIFIED="1592558634744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nlp$roberta.coverage" NAME="roberta模型的调用 Coverage Results" MODIFIED="1595922750528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
     <SUITE FILE_PATH="coverage/nlp$kmp_for_array.coverage" NAME="kmp_for_array Coverage Results" MODIFIED="1595822352671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kmp" />
     <SUITE FILE_PATH="coverage/fairseq_gec$7878787.coverage" NAME="7878787 Coverage Results" MODIFIED="1593397641945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$Unittests_for_66666666_TestClass.coverage" NAME="Unittests for 66666666.TestClass Coverage Results" MODIFIED="1592956892777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

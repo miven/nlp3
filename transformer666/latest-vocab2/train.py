@@ -487,3 +487,7 @@ def prepare_dataloaders(opt, device):
 
 if __name__ == '__main__':
     main()
+    '''
+    注意当前版本的index搜索用的是滑动窗口技术,
+    其实可以用kmp算法加速,详情可以看本项目里面的kmp里面的kmp_for_array.py 很精彩的util.
+    '''
