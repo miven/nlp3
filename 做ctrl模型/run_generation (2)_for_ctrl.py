@@ -22,6 +22,16 @@ ctrl据说是最好的, 需要再服务器上跑. 6.5G太大了,自己电脑受�
 xlnet 对于文本生成效果非常差.不要用. 感觉这种概率模型对于生成任务不行.
 '''
 
+
+
+
+
+
+
+
+# 这份代码直接调用39.97这个服务器即可. 使用的cpu, 因为显卡不够大. 速度有点慢.
+#注意 prompt文字一定要符合先code再promt的格式.
+
 import argparse
 import logging
 
@@ -187,6 +197,7 @@ def main():
     parser.add_argument("--padding_text", type=str, default="", help="Padding text for Transfo-XL and XLNet.")
     parser.add_argument("--xlm_language", type=str, default="", help="Optional language when used with the XLM model.")
 
+
     parser.add_argument("--seed", type=int, default=42, help="random seed for initialization")
     parser.add_argument("--no_cuda", action="store_true", help="Avoid using CUDA when available")
     parser.add_argument("--num_return_sequences", type=int, default=1, help="The number of samples to generate.")
@@ -195,7 +206,7 @@ def main():
 
 
 
-
+    args.no_cuda=True
 
 
     '''
@@ -203,20 +214,14 @@ def main():
     '''
     args.model_type='ctrl'
     args.model_name_or_path = 'ctrl'
-    args.prompt="i am a student"
-
-
-
-
-
-
-
 
     args.device = torch.device("cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu")
     args.n_gpu = 0 if args.no_cuda else torch.cuda.device_count()
-
+    args.n_gpu=-1
+    args.repetition_penalty=1.2
+    args.temperature=0
     set_seed(args)
-
+    args.prompt='Wikipedia Salesforce Inc. is'
     # Initialize the model and tokenizer
     try:
         args.model_type = args.model_type.lower()
@@ -224,8 +229,8 @@ def main():
     except KeyError:
         raise KeyError("the model {} you specified is not supported. You are welcome to add it and open a PR :)")
 # 这玩应是牛逼啊, 封装很好,直接跑代码即可, 权重都自动下载好了!!!!!!!!!!!!!!!!!!!
-    tokenizer = tokenizer_class.from_pretrained(args.model_type)
-    model = model_class.from_pretrained(args.model_name_or_path)
+    tokenizer = tokenizer_class.from_pretrained(args.model_name_or_path)
+    model = model_class.from_pretrained('ctrl')
     model.to(args.device)
 
     args.length = adjust_length_to_model(args.length, max_sequence_length=model.config.max_position_embeddings)
@@ -270,26 +275,26 @@ def main():
     # Remove the batch dimension when returning multiple sequences
     if len(output_sequences.shape) > 2:
         output_sequences.squeeze_()
-
+    # print(output_sequences,"输出是!!!!!!!!!!!!!!!!!!!!!!!")
     generated_sequences = []
 
     for generated_sequence_idx, generated_sequence in enumerate(output_sequences):
-        print("=== GENERATED SEQUENCE {} ===".format(generated_sequence_idx + 1))
+
         generated_sequence = generated_sequence.tolist()
 
         # Decode text
         text = tokenizer.decode(generated_sequence, clean_up_tokenization_spaces=True)
-
-        # Remove all text after the stop token
-        text = text[: text.find(args.stop_token) if args.stop_token else None]
-
-        # Add the prompt at the beginning of the sequence. Remove the excess text that was used for pre-processing
-        total_sequence = (
-            prompt_text + text[len(tokenizer.decode(encoded_prompt[0], clean_up_tokenization_spaces=True)) :]
-        )
-
-        generated_sequences.append(total_sequence)
-        print(total_sequence)
+        print("输出是",prompt_text+text)
+        # # Remove all text after the stop token
+        # text = text[: text.find(args.stop_token) if args.stop_token else None]
+        #
+        # # Add the prompt at the beginning of the sequence. Remove the excess text that was used for pre-processing
+        # total_sequence = (
+        #      + text[len(tokenizer.decode(encoded_prompt[0], clean_up_tokenization_spaces=True)) :]
+        # )
+        #
+        # generated_sequences.append(total_sequence)
+        # print(total_sequence)
 
     return generated_sequences
 

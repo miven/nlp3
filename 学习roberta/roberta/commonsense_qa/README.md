@@ -1,4 +1,11 @@
 
+项目在 39.97.233.131 
+/opt/roberta/commonsense_qa
+里面已经train玩,predict玩了.
+
+
+
+
 
 模型都下好了,注意下载的是roberta目录readme里面的roberta.large
 
