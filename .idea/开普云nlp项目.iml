@@ -31,7 +31,7 @@
       <sourceFolder url="file://$MODULE_DIR$/transformer-project_byFengge/latest-fixed_by_vocab" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/文本生成/GPT2-Chinese-master" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.7.6 (sftp://xieniantao@119.3.178.138:22/home/xieniantao/.virtualenvs/breast666/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

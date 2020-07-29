@@ -14,3 +14,17 @@ docker run -ti --user root -p 10022:22 e95a24a0d95e  /bin/bash
 
 # 纠错项目在2222222里面
 #爬虫在tutorial里面运行main
+
+正式训练:
+2020-07-09,18点43
+
+
+
+后台训练:
+
+
+
+
+nohup  python3   xxx.py    >666 2>&1 &
+
+tail -fn 2000 666

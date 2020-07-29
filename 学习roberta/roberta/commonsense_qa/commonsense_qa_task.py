@@ -81,7 +81,7 @@ class CommonsenseQATask(FairseqTask):
             tokens = self.vocab.encode_line(
                 s, append_eos=True, add_if_not_exist=False,
             ).long()
-            if append_bos and self.args.init_token is not None:
+            if append_bos and self.args.init_token is not None:#在bos加入init_token
                 tokens = torch.cat([tokens.new([self.args.init_token]), tokens])
             return tokens
 
