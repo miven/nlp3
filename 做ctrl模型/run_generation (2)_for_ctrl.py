@@ -219,9 +219,17 @@ def main():
     args.n_gpu = 0 if args.no_cuda else torch.cuda.device_count()
     args.n_gpu=-1
     args.repetition_penalty=1.2
-    args.temperature=0
+    args.temperature=0.1
+    args.length=500 # 输出句子的长度.
     set_seed(args)
     args.prompt='Wikipedia Salesforce Inc. is'
+
+
+
+
+
+
+
     # Initialize the model and tokenizer
     try:
         args.model_type = args.model_type.lower()
