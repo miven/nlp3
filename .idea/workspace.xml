@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/如何引入上级库包/111111111111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/如何引入上级库包/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/predict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/开普云nlp项目.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/开普云nlp项目.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme日常开发规范" beforeDir="false" afterPath="$PROJECT_DIR$/readme日常开发规范" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/1.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/commonsense_qa_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa/commonsense_qa_task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +322,7 @@
       <workItem from="1595602872878" duration="24066000" />
       <workItem from="1595727845087" duration="2363000" />
       <workItem from="1595730828177" duration="14000" />
-      <workItem from="1595778885170" duration="36991000" />
+      <workItem from="1595778885170" duration="38527000" />
     </task>
     <servers />
   </component>
@@ -397,22 +393,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="149" key="GridCell.Tab.0.bottom" timestamp="1595955952637">
+    <state width="1237" height="149" key="GridCell.Tab.0.bottom" timestamp="1595984623540">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595955952637" />
-    <state width="1237" height="149" key="GridCell.Tab.0.center" timestamp="1595955952637">
+    <state width="1237" height="149" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595984623540" />
+    <state width="1237" height="149" key="GridCell.Tab.0.center" timestamp="1595984623540">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595955952637" />
-    <state width="1237" height="149" key="GridCell.Tab.0.left" timestamp="1595955952637">
+    <state width="1237" height="149" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595984623540" />
+    <state width="1237" height="149" key="GridCell.Tab.0.left" timestamp="1595984623540">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595955952637" />
-    <state width="1237" height="149" key="GridCell.Tab.0.right" timestamp="1595955952637">
+    <state width="1237" height="149" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595984623540" />
+    <state width="1237" height="149" key="GridCell.Tab.0.right" timestamp="1595984623540">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="149" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595955952637" />
+    <state width="1237" height="149" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595984623540" />
     <state width="1237" height="224" key="GridCell.Tab.1.bottom" timestamp="1595926202273">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
