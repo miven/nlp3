@@ -19,6 +19,9 @@
 '''
 ctrl据说是最好的, 需要再服务器上跑. 6.5G太大了,自己电脑受不了.
 
+
+真心牛逼!
+
 xlnet 对于文本生成效果非常差.不要用. 感觉这种概率模型对于生成任务不行.
 '''
 
@@ -220,9 +223,9 @@ def main():
     args.n_gpu=-1
     args.repetition_penalty=1.2
     args.temperature=0.1
-    args.length=500 # 输出句子的长度.
+    args.length=100 # 输出句子的长度.
     set_seed(args)
-    args.prompt='Wikipedia Salesforce Inc. is'
+    args.prompt='Wikipedia Zhangbo is a good man'
 
 
 
@@ -292,7 +295,7 @@ def main():
 
         # Decode text
         text = tokenizer.decode(generated_sequence, clean_up_tokenization_spaces=True)
-        print("输出是",prompt_text+text)
+        print("输出是",text)
         # # Remove all text after the stop token
         # text = text[: text.find(args.stop_token) if args.stop_token else None]
         #

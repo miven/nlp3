@@ -172,9 +172,10 @@ if __name__ == '__main__':
 
 
 
-
+    # 下面使用论文里面的参数.
     args.confidence=0  # ps: 这个参数写0,就是原始的配置.越接近1表示修改的越严格,修改的越少.
-    args.additional_confidence=0  #根据官网提供的设置好参数.同样也是越小,表示改动越大.
+    args.additional_confidence=0.35  #根据官网提供的设置好参数.同样也是越小,表示改动越大.
+    args.min_error_probability=0.66  #根据官网提供的设置好参数.同样也是越小,表示改动越大.
 
 
 

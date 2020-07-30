@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22222222/gector-master2/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/22222222/gector-master2/predict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/做ctrl模型/run_generation (2)_for_ctrl.py" beforeDir="false" afterPath="$PROJECT_DIR$/做ctrl模型/run_generation (2)_for_ctrl.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -320,7 +321,7 @@
       <workItem from="1595602872878" duration="24066000" />
       <workItem from="1595727845087" duration="2363000" />
       <workItem from="1595730828177" duration="14000" />
-      <workItem from="1595778885170" duration="60973000" />
+      <workItem from="1595778885170" duration="63559000" />
     </task>
     <servers />
   </component>
@@ -391,22 +392,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="246" key="GridCell.Tab.0.bottom" timestamp="1596039495002">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1596068006199">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596039495002" />
-    <state width="1237" height="246" key="GridCell.Tab.0.center" timestamp="1596039495002">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596068006199" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1596068006199">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596039495002" />
-    <state width="1237" height="246" key="GridCell.Tab.0.left" timestamp="1596039495001">
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596068006199" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1596068006199">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596039495001" />
-    <state width="1237" height="246" key="GridCell.Tab.0.right" timestamp="1596039495002">
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596068006199" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1596068006199">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596039495002" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596068006199" />
     <state width="1237" height="246" key="GridCell.Tab.1.bottom" timestamp="1596039495002">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1048,7 +1049,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/做ctrl模型/run_generation (2)_for_ctrl.py</url>
-          <line>236</line>
+          <line>246</line>
           <option name="timeStamp" value="306" />
         </line-breakpoint>
       </breakpoints>
@@ -1146,7 +1147,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$run_secret_sharing_vertically_linear_regression.coverage" NAME="run_secret_sharing_vertically_linear_regression Coverage Results" MODIFIED="1592439994168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Secret-sharing-based_2PC_vertical_fed_learning" />
     <SUITE FILE_PATH="coverage/fairseq_gec$56565656.coverage" NAME="56565656 Coverage Results" MODIFIED="1593401657079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/56565" />
     <SUITE FILE_PATH="coverage/nlp$.coverage" NAME="迭代器读取 Coverage Results" MODIFIED="1595584730341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/nlp$run_generation__2__for_ctrl__1_.coverage" NAME="run_generation (2)_for_ctrl (1) Coverage Results" MODIFIED="1596039494985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
+    <SUITE FILE_PATH="coverage/nlp$run_generation__2__for_ctrl__1_.coverage" NAME="run_generation (2)_for_ctrl (1) Coverage Results" MODIFIED="1596068006192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_finetune.coverage" NAME="train_finetune Coverage Results" MODIFIED="1593411371905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/nlp$nltk__1_.coverage" NAME="nltk句子分割算法 (1) Coverage Results" MODIFIED="1595225966266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句子分割算法" />
     <SUITE FILE_PATH="coverage/nlp$21321312.coverage" NAME="21321312 Coverage Results" MODIFIED="1595922153727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
