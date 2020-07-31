@@ -2,8 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/11111111tokenize算法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/doc/attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/doc/attention2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/doc/attention3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/doc/model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/doc/result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/doc/validation_loss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/multi-bleu.perl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/nmt.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/preprocess.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/NMT-master/tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beamSearch讲解/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bpe算法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bpe算法/研究一下bpe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/bert_data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/json_data/cnndm_sample.train.0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/models/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/raw_data/temp.raw_src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/raw_data/temp.raw_tgt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/raw_data/temp_ext.raw_src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/results/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/bert生成summary论文.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/cal_rouge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/distributed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/adam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/data_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/model_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/neural.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/optimizers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/predictor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/reporter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/reporter_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/models/trainer_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/others/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/others/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/others/pyrouge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/others/tokenization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/others/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/post_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/prepro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/prepro/data_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/prepro/smart_common_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/prepro/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/preprocess2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/stanza切分句子算法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/train2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/train3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/train_abstractive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/train_extractive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/translate/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/translate/beam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/src/translate/penalties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/urls/cnn_mapping_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/urls/cnn_mapping_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/urls/cnn_mapping_valid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/urls/mapping_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/urls/mapping_train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/PreSumm2_summary_abstract算法/urls/mapping_valid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/做ctrl模型/ctrl-merges.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/做ctrl模型/ctrl-vocab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/做ctrl模型/tokenization_ctrl经典的bpe算法教学版.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22222222/gector-master2/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/22222222/gector-master2/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/一些可以直接调用的nlp算法/一些语言之间的翻译和生成.md" beforeDir="false" afterPath="$PROJECT_DIR$/一些可以直接调用的nlp算法/一些语言之间的翻译和生成.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/做ctrl模型/run_generation (2)_for_ctrl.py" beforeDir="false" afterPath="$PROJECT_DIR$/做ctrl模型/run_generation (2)_for_ctrl.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,18 +131,18 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/做ctrl模型" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/一些可以直接调用的nlp算法" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/文本生成/GPT2-Chinese-master/tokenizations/tokenization_bert_word_level.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\一些可以直接调用的nlp算法" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\做ctrl模型" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\beamSearch讲解" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习roberta\roberta\commonsense_qa" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习roberta\roberta" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习roberta" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\kmp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\文本生成\huggingface重要例子" />
@@ -78,7 +152,7 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\爬虫999\otehr" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.run_generation (2)_for_ctrl (1)">
+  <component name="RunManager" selected="Python.tokenization_ctrl经典的bpe算法教学版">
     <configuration name="111 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="开普云nlp项目" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="研究一下bpe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="开普云nlp项目" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +183,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bpe算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/111.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bpe算法/研究一下bpe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,28 +241,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_generation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="开普云nlp项目" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/一些可以直接调用的nlp算法/text-generation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/一些可以直接调用的nlp算法/text-generation/run_generation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="run_language_modeling" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="开普云nlp项目" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,21 +263,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tokenization_ctrl经典的bpe算法教学版" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="开普云nlp项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/做ctrl模型" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Users\Administrator\PycharmProjects\fairseq-gec\做ctrl模型\tokenization_ctrl经典的bpe算法教学版.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.111" />
-      <item itemvalue="Python.run_generation" />
       <item itemvalue="Python.111 (1)" />
       <item itemvalue="Python.run_generation (2)_for_ctrl" />
       <item itemvalue="Python.run_generation (2)_for_ctrl (1)" />
+      <item itemvalue="Python.研究一下bpe" />
+      <item itemvalue="Python.tokenization_ctrl经典的bpe算法教学版" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tokenization_ctrl经典的bpe算法教学版" />
         <item itemvalue="Python.run_generation (2)_for_ctrl (1)" />
+        <item itemvalue="Python.研究一下bpe" />
         <item itemvalue="Python.run_generation (2)_for_ctrl" />
         <item itemvalue="Python.111 (1)" />
-        <item itemvalue="Python.run_generation" />
-        <item itemvalue="Python.111" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +395,7 @@
       <workItem from="1595602872878" duration="24066000" />
       <workItem from="1595727845087" duration="2363000" />
       <workItem from="1595730828177" duration="14000" />
-      <workItem from="1595778885170" duration="63559000" />
+      <workItem from="1595778885170" duration="87079000" />
     </task>
     <servers />
   </component>
@@ -372,14 +446,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="358" y="0" key="#train/0.0.1280.680@0.0.1280.680" timestamp="1595513082480" />
-    <state x="367" y="59" width="777" height="583" key="#xdebugger.evaluate" timestamp="1596027659777">
+    <state x="348" y="97" width="777" height="583" key="#xdebugger.evaluate" timestamp="1596108732295">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="367" y="59" width="777" height="583" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1596027659777" />
-    <state width="1060" height="459" key="DebuggerActiveHint" timestamp="1596013204460">
+    <state x="348" y="97" width="777" height="583" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1596108732295" />
+    <state width="1060" height="459" key="DebuggerActiveHint" timestamp="1596175114115">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1060" height="459" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1596013204460" />
+    <state width="1060" height="459" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1596175114115" />
     <state x="130" y="77" width="1095" height="495" key="DiffContextDialog" timestamp="1594771408420">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -392,54 +466,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1596068006199">
+    <state width="1237" height="171" key="GridCell.Tab.0.bottom" timestamp="1596175228516">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596068006199" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1596068006199">
+    <state width="1237" height="171" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596175228516" />
+    <state width="1237" height="171" key="GridCell.Tab.0.center" timestamp="1596175228516">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596068006199" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1596068006199">
+    <state width="1237" height="171" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596175228516" />
+    <state width="1237" height="171" key="GridCell.Tab.0.left" timestamp="1596175228516">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596068006199" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1596068006199">
+    <state width="1237" height="171" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596175228516" />
+    <state width="1237" height="171" key="GridCell.Tab.0.right" timestamp="1596175228516">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596068006199" />
-    <state width="1237" height="246" key="GridCell.Tab.1.bottom" timestamp="1596039495002">
+    <state width="1237" height="171" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596175228516" />
+    <state width="1237" height="171" key="GridCell.Tab.1.bottom" timestamp="1596175028474">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596039495002" />
-    <state width="1237" height="246" key="GridCell.Tab.1.center" timestamp="1596039495002">
+    <state width="1237" height="171" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596175028474" />
+    <state width="1237" height="171" key="GridCell.Tab.1.center" timestamp="1596175028473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596039495002" />
-    <state width="1237" height="246" key="GridCell.Tab.1.left" timestamp="1596039495002">
+    <state width="1237" height="171" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596175028473" />
+    <state width="1237" height="171" key="GridCell.Tab.1.left" timestamp="1596175028473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596039495002" />
-    <state width="1237" height="246" key="GridCell.Tab.1.right" timestamp="1596039495002">
+    <state width="1237" height="171" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596175028473" />
+    <state width="1237" height="171" key="GridCell.Tab.1.right" timestamp="1596175028473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="246" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596039495002" />
+    <state width="1237" height="171" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596175028473" />
     <state x="169" y="0" key="SettingsEditor" timestamp="1596014093551">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="169" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596014093551" />
-    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1596027659733">
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1596169019636">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1596027659733" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1596169019636" />
     <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596024533983">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1596024533983" />
-    <state x="332" y="95" width="824" height="490" key="find.popup" timestamp="1596011994077">
+    <state x="332" y="95" width="824" height="490" key="find.popup" timestamp="1596103158596">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="332" y="95" width="824" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1596011994077" />
+    <state x="332" y="95" width="824" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1596103158596" />
     <state x="1039" y="95" key="ftp.server.browser" timestamp="1596014081714">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1048,9 +1122,39 @@
           <option name="timeStamp" value="305" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/22222222/gector-master2/predict.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/做ctrl模型/run_generation (2)_for_ctrl.py</url>
-          <line>246</line>
-          <option name="timeStamp" value="306" />
+          <line>106</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/做ctrl模型/run_generation (2)_for_ctrl.py</url>
+          <line>290</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-750683277/-1193385700/transformers/tokenization_utils.py</url>
+          <line>424</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/做ctrl模型/run_generation (2)_for_ctrl.py</url>
+          <line>271</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/做ctrl模型/tokenization_ctrl经典的bpe算法教学版.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/做ctrl模型/tokenization_ctrl经典的bpe算法教学版.py</url>
+          <line>275</line>
+          <option name="timeStamp" value="316" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1063,40 +1167,30 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="example" />
-        <watch expression="test_loader" />
-        <watch expression="test_data1" />
-        <watch expression="pred_seq" />
-        <watch expression="pred_line" />
-        <watch expression="len(tokenizer)" />
-        <watch expression="total_sequence" />
+        <watch expression="model_class" />
+        <watch expression="token" />
+        <watch expression="tokenized_text" />
+        <watch expression="encoded_prompt" />
         <watch expression="tokenizer" />
+        <watch expression="tokenizer.control_codes.values()" />
+        <watch expression=" tokenizer.control_codes" />
+        <watch expression="encoded_inputs" />
+        <watch expression="args.length + len(encoded_prompt[0])" />
         <watch expression="output_sequences" />
-        <watch expression="text" />
-        <watch expression="data" />
-        <watch expression="src_seq" />
-        <watch expression="src_pos" />
-        <watch expression="tgt_seq" language="Python" />
-        <watch expression="len(input_sentence)-(window if len(input_sentence)&gt;window" />
-        <watch expression="input_sentence[len(input_sentence)-(window if len(input_sentence)&gt;window else len(input_sentence)):]" />
-        <watch expression="tgt_seq" language="Python" />
-        <watch expression="seq_q" />
-        <watch expression="padding_mask" language="Python" />
-        <watch expression="roberta" />
-        <watch expression=" cPickle.dumps(enc_a_lst)" />
-        <watch expression="cPickle.dumps(enc_a_lst[0])" />
-        <watch expression="enc_a_lst" />
-        <watch expression="enc_a_lst[0]" />
-        <watch expression="etag" />
-        <watch expression="filename" />
-        <watch expression="input_ids" language="Python" />
-        <watch expression="input_ids" />
-        <watch expression="model" />
-        <watch expression="model(input_ids)" />
-        <watch expression="output_attentions" />
-        <watch expression="hidden_states" language="Python" />
-        <watch expression="presents" />
-        <watch expression="hidden_states" />
+        <watch expression=" self.bpe_ranks.get(pair, float(&quot;inf&quot;))" />
+        <watch expression="self.bpe_ranks " />
+        <watch expression="merges" />
+        <watch expression="self.encoder" />
+        <watch expression="self.decoder" />
+        <watch expression="merges_handle.read().split(&quot;\n&quot;)" />
+        <watch expression=" merges_handle.read()" />
+        <watch expression="    with open(merges_file, encoding=&quot;utf-8&quot;) as merges_handle:&#10;            merges = merges_handle.read()" />
+        <watch expression="merges_handle.read()." />
+        <watch expression=" merges_handle.read().split(&quot;\n&quot;)" />
+        <watch expression="self.bpe_ranks" />
+        <watch expression="pairs" />
+        <watch expression="word" />
+        <watch expression="new_word" />
       </configuration>
     </watches-manager>
   </component>
@@ -1104,6 +1198,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$2132321.coverage" NAME="2132321 Coverage Results" MODIFIED="1594682810561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本生成/MASS/MASS-summarization" />
     <SUITE FILE_PATH="coverage/fairseq_gec$1111111.coverage" NAME="1111111 Coverage Results" MODIFIED="1592953019525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$selium__1_.coverage" NAME="成功selium (1) Coverage Results" MODIFIED="1592960179243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nlp$tokenization_ctrl.coverage" NAME="tokenization_ctrl Coverage Results" MODIFIED="1596169525264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
     <SUITE FILE_PATH="coverage/fairseq_gec$Unittests_for_66666666_TestClass_test_case2.coverage" NAME="Unittests for 66666666.TestClass.test_case2 Coverage Results" MODIFIED="1592956791878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$Doctests_in_filter.coverage" NAME="Doctests in filter Coverage Results" MODIFIED="1594952028511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jiexi2-master加很多工具/这个文件夹用来存一个相关的项目包可以作为工具来使用/someUtils/textfilter" />
     <SUITE FILE_PATH="coverage/nlp$train__2_.coverage" NAME="train (2) Coverage Results" MODIFIED="1595819038645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer666/attention-is-all-you-need-pytorch最原始的版本--上课专用版" />
@@ -1139,6 +1234,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$3434343434.coverage" NAME="3434343434 Coverage Results" MODIFIED="1594178265422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master/utils" />
     <SUITE FILE_PATH="coverage/nlp$stanza.coverage" NAME="stanza切分句子算法 Coverage Results" MODIFIED="1595230419442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句子分割算法" />
     <SUITE FILE_PATH="coverage/nlp$kmp_for_array.coverage" NAME="kmp_for_array Coverage Results" MODIFIED="1595822352671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kmp" />
+    <SUITE FILE_PATH="coverage/nlp$bpe.coverage" NAME="研究一下bpe Coverage Results" MODIFIED="1596108497083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bpe算法" />
     <SUITE FILE_PATH="coverage/nlp$2111111111111111111.coverage" NAME="2111111111111111111 Coverage Results" MODIFIED="1595779072032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils_for_bert翻译峰哥" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_finetune_latest.coverage" NAME="train_finetune_latest Coverage Results" MODIFIED="1593414566353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$predict2222.coverage" NAME="predict2222 Coverage Results" MODIFIED="1592551418359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
@@ -1147,7 +1243,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$run_secret_sharing_vertically_linear_regression.coverage" NAME="run_secret_sharing_vertically_linear_regression Coverage Results" MODIFIED="1592439994168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Secret-sharing-based_2PC_vertical_fed_learning" />
     <SUITE FILE_PATH="coverage/fairseq_gec$56565656.coverage" NAME="56565656 Coverage Results" MODIFIED="1593401657079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/56565" />
     <SUITE FILE_PATH="coverage/nlp$.coverage" NAME="迭代器读取 Coverage Results" MODIFIED="1595584730341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/nlp$run_generation__2__for_ctrl__1_.coverage" NAME="run_generation (2)_for_ctrl (1) Coverage Results" MODIFIED="1596068006192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
+    <SUITE FILE_PATH="coverage/nlp$run_generation__2__for_ctrl__1_.coverage" NAME="run_generation (2)_for_ctrl (1) Coverage Results" MODIFIED="1596163485667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_finetune.coverage" NAME="train_finetune Coverage Results" MODIFIED="1593411371905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/nlp$nltk__1_.coverage" NAME="nltk句子分割算法 (1) Coverage Results" MODIFIED="1595225966266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句子分割算法" />
     <SUITE FILE_PATH="coverage/nlp$21321312.coverage" NAME="21321312 Coverage Results" MODIFIED="1595922153727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
