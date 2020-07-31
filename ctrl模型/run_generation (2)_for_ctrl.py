@@ -252,6 +252,7 @@ def main():
     args.repetition_penalty=1.2
     args.temperature=0.1
     args.length=100 # 输出句子的长度.
+    args.k=5
     set_seed(args)
     args.prompt='Wikipedia Zhangbo is a good man'
 
