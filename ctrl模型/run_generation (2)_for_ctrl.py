@@ -249,7 +249,7 @@ def main():
     args.device = torch.device("cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu")
     args.n_gpu = 0 if args.no_cuda else torch.cuda.device_count()
     args.n_gpu=-1
-    args.repetition_penalty=1.2
+    args.repetition_penalty=1.2  #  重复需要设置惩罚系数.
     args.temperature=0.1
     args.length=100 # 输出句子的长度.
     args.k=5

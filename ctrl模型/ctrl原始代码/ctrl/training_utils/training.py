@@ -16,20 +16,30 @@ from tensorflow.python.ops import math_ops
 from tensorflow.python.ops import embedding_ops
 import fastBPE
 import platform
-
+'''
+这份代码用的kearas, 比pytorch还简介.
+'''
 use_py3 = platform.python_version()[0] == '3'
 
 parser = argparse.ArgumentParser(description='TensorFlow code for generating from CTRL')
-parser.add_argument('--model_dir', type=str, required=True,
+parser.add_argument('--model_dir', type=str, required=False,
                                         help='location of model checkpoint')
 parser.add_argument('--seed', type=int, default=1337,
                                         help='random seed for TensorFlow, numpy and PythonHash')
 parser.add_argument('--sequence_len', type=int, default=256,
                                         help='sequence len of model being fine-tuned (must match also the TFRecords)')
 parser.add_argument('--iterations', type=int, default=1000,
-                                        help='random seed for TensorFlow, numpy and PythonHash')
+                                        help='random seed for TensorFlow, numpy and PythonHash  训练多少次.')
 
 args = parser.parse_args()
+
+
+args.model_dir='/home/xieniantao/Projects/zhang222/888/seqlen256_v1.ckpt'
+args.iterations=10
+
+
+
+
 tf.random.set_random_seed(args.seed)
 os.environ['PYTHONHASHSEED'] = str(args.seed)
 np.random.seed(args.seed)
@@ -102,7 +112,7 @@ class TiedEmbeddingSoftmax(tf.keras.layers.Layer):
       return tf.tensordot(inputs, tf.transpose(self.w), 1) + self.b
 
 # input for the keras model
-tokens = tf.keras.layers.Input(shape=(seq_length,), dtype='int32')
+tokens = tf.keras.layers.Input(shape=(seq_length,), dtype='int32') # 就是tf里面的placeholder
 
 # instantiates a tied softmax class
 tied_embedding_softmax = TiedEmbeddingSoftmax()
@@ -113,7 +123,7 @@ embedded = tied_embedding_softmax(tokens, embed=True)
 # the activations after passing it from the transformer
 # for some odd reason, TPUs don't play well with specifying the arguments of the Encoder() function
 # so you have to leave them at their defaults
-transformed = transformer.Encoder()(embedded, training=False)
+transformed = transformer.Encoder()(embedded, training=False)  # 直接类加变量,表示调用里面的call函数.
 
 
 # pass the activations from our tiedsoftmax class

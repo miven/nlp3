@@ -29,6 +29,7 @@
       <sourceFolder url="file://$MODULE_DIR$/huggingface项目中重要例子/transformers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/transformer-project_byFengge/attention-is-all-you-need-pytorch-master88888888latest/transformer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/transformer-project_byFengge/latest-fixed_by_vocab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ctrl模型/ctrl原始代码/ctrl" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/文本生成/GPT2-Chinese-master" />
     </content>
     <orderEntry type="jdk" jdkName="Remote Python 3.6.10 (sftp://user@39.97.233.131:16000/home/user/anaconda3/envs/pytorch1.12/bin/python)" jdkType="Python SDK" />

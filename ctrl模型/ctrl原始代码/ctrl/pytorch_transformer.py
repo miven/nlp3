@@ -79,7 +79,7 @@ class MultiHeadAttention(torch.nn.Module):
 
 
 def point_wise_feed_forward_network(d_model_size, dff):
-  return torch.nn.Sequential(torch.nn.Linear(d_model_size, dff), torch.nn.ReLU(), torch.nn.Linear(dff, d_model_size))
+  return torch.nn.Sequential(torch.nn.Linear(d_model_size, dff), torch.nn.ReLU(), torch.nn.Linear(dff, d_model_size))  # 直接用torch.nn写就行,不用conv1d那么麻烦.
 
 
 class EncoderLayer(torch.nn.Module):
@@ -119,9 +119,9 @@ class Encoder(torch.nn.Module):
     self.d_model_size = d_model_size
     self.num_layers = num_layers
     
-    self.pos_encoding = positional_encoding(input_vocab_size, self.d_model_size).to('cuda')
+    self.pos_encoding = positional_encoding(input_vocab_size, self.d_model_size).to('cpu')
 
-    for i in range(num_layers):
+    for i in range(num_layers): # 干48个编码层.
       setattr(self, "layer%i" % i, EncoderLayer(d_model_size, num_heads, dff, rate))
     
     self.layernorm = torch.nn.LayerNorm(d_model_size, eps=1e-6)  
@@ -131,7 +131,7 @@ class Encoder(torch.nn.Module):
 
     seq_len = x.shape[1]
     
-    mask = torch.triu(torch.ones(seq_len, seq_len), 1).to('cuda')
+    mask = torch.triu(torch.ones(seq_len, seq_len), 1).to('cpu')
     
     x *= np.sqrt(self.d_model_size)
     x += self.pos_encoding[:, :seq_len, :]

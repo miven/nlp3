@@ -14,10 +14,31 @@ import fastBPE
 from tensorflow.python import pywrap_tensorflow
 from control_codes import CONTROL_CODES
 
+'''
+这个代码也已经跑通,只需要按照下面几个库包装上就行,自动会进行权重转化.
+这里面使用的cpu,因为显卡的显存不够大.
+'''
+
+# tensorflow             1.13.1
+# pip install tensorflow-gpu==1.14
+# pip install tensorflow==1.14
+'''
+pip2 install gsutil
+
+gsutil -m cp -r gs://sf-ctrl/seqlen256_v1.ckpt .
+
+python2 pytorch_generation.py --temperature 0.5 --model seqlen256_v1.ckpt/model.ckpt-413000.data-00000-of-00001
+'''
+
+
+
+
+
+
 use_py3 = platform.python_version()[0] == '3'
 
 parser = argparse.ArgumentParser(description='TensorFlow code for generating from CTRL')
-parser.add_argument('--model_path', type=str, required=True,
+parser.add_argument('--model_path', type=str, required=False,
                                         help='location of model *data* checkpoint; this is NOT the directory but rather the model checkpoint')
 parser.add_argument('--seed', type=int, default=1337,
                                         help='random seed for TensorFlow, numpy and PythonHash')
@@ -37,6 +58,29 @@ parser.add_argument('--topn', type=int, default=0,
                                         help='print top-n candidates during generations; defaults to 0 which is no printing')
 
 args = parser.parse_args()
+
+
+
+
+
+
+
+
+
+
+
+
+args.model_path='/home/xieniantao/Projects/zhang222/888/seqlen256_v1.ckpt/model.ckpt-413000.data-00000-of-00001'
+args.temperature=0.5
+
+
+
+
+
+
+
+
+
 torch.manual_seed(args.seed)
 torch.cuda.manual_seed_all(args.seed)
 os.environ['PYTHONHASHSEED'] = str(args.seed)
@@ -76,7 +120,7 @@ test_encoder = pytorch_transformer.Encoder()
 
 def predict_fn(inputs):
   with torch.no_grad():
-    embedded = torch.tensor(inputs['input_1']).cuda()
+    embedded = torch.tensor(inputs['input_1']).cpu()
     embedded = test_softmax(embedded, embed=True)
     embedded = test_encoder(embedded)
     embedded = test_softmax(embedded, embed=False)
@@ -104,24 +148,24 @@ if os.path.exists(pytorch_model_hash):
   test_softmax.load_state_dict(checkpoint['softmax'])
   test_encoder.load_state_dict(checkpoint['encoder'])
 
-  test_softmax.to('cuda')
-  test_encoder.to('cuda')
+  test_softmax.to('cpu')
+  test_encoder.to('cpu')
 
 else:
   print('Could not find PyTorch checkpoint')
   print('Converting weights and will store the PyTorch checkpoint as ', pytorch_model_hash)
   chkpt_for_reader = '.'.join(args.model_path.split('.')[:-1])
-  reader = pywrap_tensorflow.NewCheckpointReader(chkpt_for_reader)
-  test_softmax.w = torch.nn.Parameter(torch.tensor(reader.get_tensor('w')).to('cuda'))
-  test_softmax.b = torch.nn.Parameter(torch.tensor(reader.get_tensor('b')).to('cuda'))
+  reader = pywrap_tensorflow.NewCheckpointReader(chkpt_for_reader) # 读取tensorflow的参数
+  test_softmax.w = torch.nn.Parameter(torch.tensor(reader.get_tensor('w')).to('cpu'))
+  test_softmax.b = torch.nn.Parameter(torch.tensor(reader.get_tensor('b')).to('cpu'))
 
   list_of_variables = list(filter(lambda x: 'Adagrad' not in x, reader.get_variable_to_shape_map().keys()))
 
-  str2parameter = lambda x: torch.nn.Parameter(torch.tensor(reader.get_tensor(x)).t().to('cuda'))
+  str2parameter = lambda x: torch.nn.Parameter(torch.tensor(reader.get_tensor(x)).t().to('cpu'))
 
   test_encoder.layernorm.weight = str2parameter('encoder/layer_normalization_96/gamma')
   test_encoder.layernorm.bias = str2parameter('encoder/layer_normalization_96/beta')
-  for i in tqdm.tqdm(range(48)):
+  for i in tqdm.tqdm(range(48)):# 显示进度条.
     if i==0:
       layer_variables = sorted(filter(lambda x: 'layer/' in x, list_of_variables))
     else:
@@ -151,7 +195,7 @@ else:
   torch.save({
     'softmax': test_softmax.state_dict(),
     'encoder': test_encoder.state_dict(),
-  }, pytorch_model_hash)
+  }, pytorch_model_hash) # 生成的这个哈希表示的model反倒只有6.2个G.
 
 test_softmax.eval()
 test_encoder.eval()
@@ -159,8 +203,8 @@ test_encoder.eval()
 
 
 
-while True:
-  prompt = raw_input('ENTER PROMPT: ') if not use_py3 else input('ENTER PROMPT: ')
+while True:#         Wikipedia Zhangbo is a good man
+  prompt = input('ENTER PROMPT: ') if not use_py3 else input('ENTER PROMPT: ')
   prompt = prompt.split('\\n') # split on newlines if provided
 
   # tokenize provided prompt
