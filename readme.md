@@ -9,18 +9,85 @@
 
 
 
-22222222/gector-master2/train_finetune_latest3.py 是 纠错最终版本(对原有开源模型进行了多种加强和bug修复.)
-
-zhangbo2008/text_summaryzhangbo2008/text_summary
-
-
-PreSumm2\src\train2.py 是extract 模型. 输入一段句子, 返回最有用的句子的index (index从0开始计数)
-(没有对原有开源模型进行加强,只是简单的函数封装.)
+22222222/gector-master2/train_finetune_latest3.py
+ 
+     是 纠错最终版本(对原有开源模型进行了多种加强和bug修复.)
 
 
-PreSumm2/src/train3.py 是abs模型. 输入一段句子, /output_abs.txt 会返回abs.
 
-"# nlp3" 
+PreSumm2\src\train2.py 
+
+     是extract 模型. 输入一段句子, 返回最有用的句子的index (index从0开始计数) (没有对原有开源模型进行加强,只是简单的函数封装.)
+
+
+PreSumm2/src/train3.py 
+
+    是abs模型.     输入一段句子, /output_abs.txt 会返回abs.
+    
+
+
+
+ctrl模型:
+
+ctrl模型/ctrl原始代码/ctrl/pytorch_generation.py   
+
+    这个直接运行就会返回所有生成的过程.
+
+
+ctrl模型/run_generation (2)_for_ctrl.py
+
+    更简洁的hugging-face generate代码.
+
+
+
+ctrl模型/ctrl原始代码/ctrl/training_utils/training.py
+    ctrl模型训练代码.还没调通.
+    
+    
+
+
+
+一些其他的翻页和nlg任务:
+
+    一些可以直接调用的nlp算法/一些语言之间的翻译和生成.md
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
