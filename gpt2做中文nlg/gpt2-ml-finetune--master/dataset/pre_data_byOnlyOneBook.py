@@ -15,13 +15,14 @@ def get_data(filepath,outfile):
             strat = 0
             end = 1024
             pattern1 =  r"^[^。！？]*"
-            pattern2 = r'.*[。！？]'
+            pattern2 = r'.*?[。！？]'            #[^...]	不在[]中的字符：[^abc] 匹配除了a,b,c之外的字符。
+            # 我认为这个地方应该加上*后面加上? 来进行非贪婪匹配.否则句子都太长了.
             f_json = open(outfile,'a',encoding='utf-8')
             while strat<= len(data) :
                 data_list.append((strat,end))
                 if (data_list[-1][1]-data_list[-1][0])< max_length:
                     break
-                strat += strid
+                strat += strid           # 就是滑动窗口.
                 end = min(strat+max_length,len(data))
             for each in data_list:
                 tmp ={}

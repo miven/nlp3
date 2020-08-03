@@ -63,10 +63,18 @@ parser.add_argument(
 
 
 args = parser.parse_args()
+
+
+
+args.input_fn='166893.json'
+
+
+
+
 random.seed(args.seed + args.fold)
 
 tokenizer = tokenization.FullTokenizer(
-    vocab_file="/data/home/share1/gpt2-ml/dataset/bert-base-chinese-vocab.txt", do_lower_case=True)
+    vocab_file="clue-vocab.txt", do_lower_case=True)
 
 class S3TFRecordWriter(object):
     def __init__(self, fn):
