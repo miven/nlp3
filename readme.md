@@ -54,7 +54,9 @@ ctrl模型/ctrl原始代码/ctrl/training_utils/training.py
 
 
 
-
+中文nlg:
+    gpt2做中文nlg/gpt2-ml-master/demo2.py
+    直接运行即可.
 
 
 
