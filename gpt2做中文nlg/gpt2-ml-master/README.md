@@ -1,3 +1,20 @@
+
+
+
+
+
+原始地址
+https://github.com/imcaspar/gpt2-ml/releases
+
+
+能跑的文件是demo2.py
+直接运行即可.输入几个汉子,然后后面会进行续写.
+
+
+
+
+
+
 <img src="./.github/logo.svg" width="480">
 
 # **GPT2** for Multiple Languages
