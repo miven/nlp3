@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="xieniantao@119.3.178.138:22" showAutoUploadSettingsWarning="false">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="root@127.0.0.1:10022" showAutoUploadSettingsWarning="false">
     <serverData>
       <paths name="kaipuyungpu">
         <serverdata>
@@ -24,6 +24,6 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myAutoUpload" value="ALWAYS" />
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
   </component>
 </project>

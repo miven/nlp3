@@ -16,6 +16,18 @@ from tensorflow.python.ops import math_ops
 from tensorflow.python.ops import embedding_ops
 import fastBPE
 import platform
+
+
+import warnings
+warnings.filterwarnings("ignore")
+import warnings
+warnings.filterwarnings("ignore")
+from warnings import simplefilter
+simplefilter(action='ignore', category=FutureWarning)
+
+# 设置tf warning级别
+import os
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 '''
 这份代码用的kearas, 比pytorch还简介.
 '''
