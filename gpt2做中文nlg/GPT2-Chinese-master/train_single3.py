@@ -53,15 +53,15 @@ def build_files(raw_data_path, tokenized_data_path, full_tokenizer, num_pieces):
     single = ''.join(lines)
     len_single = len(single)
     if not os.path.exists(tokenized_data_path):
-        os.mkdir(tokenized_data_path)
+        os.makedirs(tokenized_data_path)  # makedirs递归的创建目录.
     for i in tqdm(range(num_pieces)):
         single_ids = full_tokenizer.convert_tokens_to_ids(
-            full_tokenizer.tokenize(single[len_single // num_pieces * i: len_single // num_pieces * (i + 1)]))
+            full_tokenizer.tokenize(single[len_single // num_pieces * i: len_single // num_pieces * (i + 1)           ]))
         with open(tokenized_data_path + 'tokenized_train_{}.txt'.format(i), 'w') as f:
             for id in single_ids[:-1]:
-                f.write(str(id) + ' ')
+                f.write(str(id) + ' ') # 每一个字符之间用空格间隔.
             f.write(str(single_ids[-1]))
-            f.write('\n')
+            f.write('\n') # 这里面的编码里面没有任何的空格.
 
     print('finish')
 
@@ -86,18 +86,29 @@ def main():
     parser.add_argument('--fp16', action='store_true', help='混合精度')
     parser.add_argument('--fp16_opt_level', default='O1', type=str, required=False)
     parser.add_argument('--max_grad_norm', default=1.0, type=float, required=False)
-    parser.add_argument('--num_pieces', default=100, type=int, required=False, help='将训练语料分成多少份')
+    parser.add_argument('--num_pieces', default=1, type=int, required=False, help='将训练语料分成多少份')
     parser.add_argument('--output_dir', default='model/', type=str, required=False, help='模型输出路径')
     parser.add_argument('--pretrained_model', default='', type=str, required=False, help='模型训练起点路径')
     parser.add_argument('--segment', action='store_true', help='中文以词为单位')
 
+    '''
+    配置参数.
+    '''
     args = parser.parse_args()
-    args.device=0
+    args.device='-1'
+    from tokenizations import tokenization
+    proj_root_path = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+    vocab_file_path ="tokenizations/clue-vocab.txt"
+#使用预训练里面的词典进行编码
+    text='我是一个人'
+    tokenizer = tokenization.FullTokenizer(vocab_file=vocab_file_path, do_lower_case=True)
+    line = tokenization.convert_to_unicode(text)
+    bert_tokens = tokenizer.tokenize(line)
+    encoded = tokenizer.convert_tokens_to_ids(bert_tokens)
 
-
-    
-
-
+# 下面关注一下数据集的写法.
+    args.raw=True
+    args.raw_data_path='train.json'
 
 
 
@@ -146,7 +157,7 @@ def main():
     max_grad_norm = args.max_grad_norm
     num_pieces = args.num_pieces
     output_dir = args.output_dir
-
+#  'data/tokenized/'  编码之后的东西放在这里.
     if raw:
         print('building files')
         build_files(raw_data_path=raw_data_path, tokenized_data_path=tokenized_data_path, full_tokenizer=full_tokenizer,
