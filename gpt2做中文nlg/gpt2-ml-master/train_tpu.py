@@ -17,8 +17,8 @@
 
 import tensorflow.compat.v1 as tf
 
-from train.dataloader import input_fn_builder
-from train.modeling import model_fn_builder, GroverConfig
+from  trainP.dataloader import input_fn_builder
+from trainP.modeling import model_fn_builder, GroverConfig
 
 flags = tf.flags
 
@@ -96,12 +96,25 @@ def main(_):
     tf.logging.set_verbosity(tf.logging.INFO)
 
     news_config = GroverConfig.from_json_file(FLAGS.config_file)
-
+    FLAGS.output_dir='output2222'
     tf.gfile.MakeDirs(FLAGS.output_dir)
 
+
+    model_fn = model_fn_builder(news_config, init_checkpoint=FLAGS.init_checkpoint,
+                                learning_rate=FLAGS.learning_rate,
+                                num_train_steps=FLAGS.num_train_steps,
+                                num_warmup_steps=FLAGS.num_warmup_steps,
+                                use_tpu=FLAGS.use_tpu,
+                                )
+
+
+
+
+
+
     input_files = []
-    for input_pattern in FLAGS.input_file.split(","):
-        input_files.extend(tf.gfile.Glob(input_pattern))
+    # for input_pattern in FLAGS.input_file.split(","):
+    #     input_files.extend(tf.gfile.Glob(input_pattern))
 
     tf.logging.info("*** Input Files ***")
     for input_file in input_files:
@@ -111,6 +124,8 @@ def main(_):
     if FLAGS.use_tpu and FLAGS.tpu_name:
         tpu_cluster_resolver = tf.contrib.cluster_resolver.TPUClusterResolver(
             FLAGS.tpu_name, zone=FLAGS.tpu_zone, project=FLAGS.gcp_project)
+
+
 
     is_per_host = tf.contrib.tpu.InputPipelineConfig.PER_HOST_V2
     run_config = tf.contrib.tpu.RunConfig(
@@ -124,12 +139,7 @@ def main(_):
             num_shards=FLAGS.num_tpu_cores,
             per_host_input_for_training=is_per_host))
 
-    model_fn = model_fn_builder(news_config, init_checkpoint=FLAGS.init_checkpoint,
-                                learning_rate=FLAGS.learning_rate,
-                                num_train_steps=FLAGS.num_train_steps,
-                                num_warmup_steps=FLAGS.num_warmup_steps,
-                                use_tpu=FLAGS.use_tpu,
-                                )
+
 
     # If TPU is not available, this will fall back to normal Estimator on CPU
     # or GPU.
@@ -152,6 +162,5 @@ def main(_):
     estimator.train(input_fn=train_input_fn, max_steps=FLAGS.num_train_steps)
 
 if __name__ == "__main__":
-    flags.mark_flag_as_required("input_file")
-    flags.mark_flag_as_required("output_dir")
+
     tf.app.run()

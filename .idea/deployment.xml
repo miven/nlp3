@@ -5,7 +5,7 @@
       <paths name="kaipuyungpu">
         <serverdata>
           <mappings>
-            <mapping deploy="/opt/888888" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/opt/12345" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
