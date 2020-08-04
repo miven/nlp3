@@ -95,8 +95,8 @@ def main():
     配置参数-------------------------------------------------------------------
     '''
     args = parser.parse_args()
-    args.device='0'
-    args.batch_size=5
+    args.device='1'
+    args.batch_size=12
     from tokenizations import tokenization
     proj_root_path = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
     vocab_file_path ="tokenizations/clue-vocab.txt"
@@ -109,10 +109,10 @@ def main():
 
 # 下面关注一下数据集的写法.
     args.raw=True
-    args.raw_data_path='166893-small.txt'
-    args.epochs=20
+    args.raw_data_path='166893-small.txt'         # -small是小的版本
+    args.epochs=200
     args.output_dir='model/'          # 结果存到e盘的final_model
-    args.num_pieces=100      # 结果存到e盘的final_model
+    args.num_pieces=10      # 结果存到e盘的final_model
     from pre_data_byOnlyOneBook import get_data as get_data
     name2=args.raw_data_path.split('.')[0]
     get_data(name2+'.txt',name2+'.json')
@@ -217,6 +217,7 @@ def main():
         x = np.linspace(0, num_pieces - 1, num_pieces, dtype=np.int32)
         random.shuffle(x)
         piece_num = 0
+        loss_save=[]
         for i in x:
             with open(tokenized_data_path + 'tokenized_train_{}.txt'.format(i), 'r') as f:
                 line = f.read().strip()
@@ -230,10 +231,15 @@ def main():
             if start_point < len(tokens): # 拼接上最后一个例子.
                 samples.append(tokens[len(tokens)-n_ctx:])
             random.shuffle(samples)
-            for step in range((len(samples) // batch_size)):
+            for step in range((len(samples) // batch_size)+1):# 多跑一个
 
                 #  prepare data
+                #先判断是否超界,如果超界就表示最后一个组不成batch,所以break
+                if step * batch_size>len(samples)-1:
+                    break
                 batch = samples[step * batch_size: (step + 1) * batch_size]
+
+
                 batch_labels = []
                 batch_inputs = []
                 for ids in batch:
@@ -250,19 +256,14 @@ def main():
                 下面为了对比,把ctrl的模型写这里:
                 
                 
-        flag_input, inputs = numericalize(domain+tokenized_train_text[i:i+seq_length])  # 注意输入要牵头加上domain.
-        flag_output, outputs = numericalize(tokenized_train_text[i:i+seq_length+1])  # ctrl算法输入是 i:j 输出是i:j+1 
-        
-        
-        研究一下这个数据的问题:
-        https://www.cnblogs.com/wwj99/p/12503545.html
-        
-        好像还真是,样本和标签一样.
-        
-        
-        
-        
-        
+                    flag_input, inputs = numericalize(domain+tokenized_train_text[i:i+seq_length])  # 注意输入要牵头加上domain.
+                    flag_output, outputs = numericalize(tokenized_train_text[i:i+seq_length+1])  # ctrl算法输入是 i:j 输出是i:j+1 
+                    
+                    
+                    研究一下这个数据的问题:
+                    https://www.cnblogs.com/wwj99/p/12503545.html
+                    
+                    好像还真是,样本和标签一样.
                 '''
                 outputs = model.forward(input_ids=batch_inputs, labels=batch_labels)
                 loss, logits = outputs[:2]
@@ -296,21 +297,22 @@ def main():
                         piece_num,
                         epoch + 1,
                         running_loss / log_step))
+                    loss_save.append(running_loss / log_step)
                     running_loss = 0
             piece_num += 1
+        #--------------检测是否提前退出
+        last=loss_save[:10]
+        avg1=sum(last)/10
+        #如果全在avg1上下百分之5以内就停止:
+        last=np.array(last)
+        avg1=np.array(avg1)
+        tmp=np.all(last >=avg1*0.97) and np.all(last>=avg1*1.03)
+        if len(last)>=10 and tmp and loss_save[-1]<0.3:
+            break
 
-        # print('saving model for epoch {}'.format(epoch + 1))
-        # if not os.path.exists(output_dir + 'model_epoch{}'.format(epoch + 1)):
-        #     os.makedirs(output_dir + 'model_epoch{}'.format(epoch + 1))
-        # model_to_save = model.module if hasattr(model, 'module') else model
-        # model_to_save.save_pretrained(output_dir + 'model_epoch{}'.format(epoch + 1))
-        # # torch.save(scheduler.state_dict(), output_dir + 'model_epoch{}/scheduler.pt'.format(epoch + 1))
-        # # torch.save(optimizer.state_dict(), output_dir + 'model_epoch{}/optimizer.pt'.format(epoch + 1))
-        # print('epoch {} finished'.format(epoch + 1))
-        #
-        # then = datetime.now()
-        # print('time: {}'.format(then))
-        # print('time for one epoch: {}'.format(then - now))
+#--------------------
+
+
 
     print('training finished')
     if not os.path.exists(output_dir + 'final_model'):

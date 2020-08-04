@@ -143,6 +143,14 @@ def main():
     parser.add_argument('--repetition_penalty', default=1.0, type=float, required=False)
 
     args = parser.parse_args()
+#=================配置自己的参数.
+
+    args.prefix='只见一声惊雷'
+
+
+
+
+
     print('args:\n' + args.__repr__())
 
     if args.segment:

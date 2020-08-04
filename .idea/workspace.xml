@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/166893-small.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/测试结果/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/测试结果/原始gpt2训练方法" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/166893.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/166893.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/config/model_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/config/model_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/doupo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/poem_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/poem_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/tiyu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/律诗绝句.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/散文1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/散文2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/散文3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/浣溪沙_江城子.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/蝶恋花_满江红.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_倚天屠龍記.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_天龍八部.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_神鵰俠侶.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_鹿鼎記.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/tokenization.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/tokenization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +81,7 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg\gpt2-ml-finetune--master\dataset" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.generateByme">
+  <component name="RunManager" selected="Python.train_single4OnlyRunThis">
     <configuration name="generateByme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,8 +224,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.generateByme" />
         <item itemvalue="Python.train_single4OnlyRunThis" />
+        <item itemvalue="Python.generateByme" />
         <item itemvalue="Python.train_single3 (1)" />
         <item itemvalue="Python.pre_data_byOnlyOneBook (1)" />
         <item itemvalue="Python.train_single3" />
@@ -347,7 +327,7 @@
       <workItem from="1595778885170" duration="92551000" />
       <workItem from="1596209111872" duration="38134000" />
       <workItem from="1596380503186" duration="34031000" />
-      <workItem from="1596505463680" duration="5859000" />
+      <workItem from="1596505463680" duration="10974000" />
     </task>
     <servers />
   </component>
@@ -386,10 +366,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596328398218" />
-    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596509434280">
+    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596519614353">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596509434280" />
+    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596519614353" />
     <state x="358" y="0" key="#pytorch_generation" timestamp="1596246409681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -402,10 +382,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="358" y="0" key="#train/0.0.1280.680@0.0.1280.680" timestamp="1595513082480" />
-    <state x="348" y="97" width="777" height="583" key="#xdebugger.evaluate" timestamp="1596507369168">
+    <state x="348" y="97" width="777" height="583" key="#xdebugger.evaluate" timestamp="1596521785381">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="348" y="97" width="777" height="583" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1596507369168" />
+    <state x="348" y="97" width="777" height="583" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1596521785381" />
     <state x="258" y="0" key="CommitChangelistDialog2" timestamp="1596430478936">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -426,38 +406,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="258" key="GridCell.Tab.0.bottom" timestamp="1596511400049">
+    <state width="1237" height="201" key="GridCell.Tab.0.bottom" timestamp="1596522073715">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="258" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
-    <state width="1237" height="258" key="GridCell.Tab.0.center" timestamp="1596511400049">
+    <state width="1237" height="201" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596522073715" />
+    <state width="1237" height="201" key="GridCell.Tab.0.center" timestamp="1596522073715">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="258" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
-    <state width="1237" height="258" key="GridCell.Tab.0.left" timestamp="1596511400049">
+    <state width="1237" height="201" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596522073715" />
+    <state width="1237" height="201" key="GridCell.Tab.0.left" timestamp="1596522073715">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="258" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
-    <state width="1237" height="258" key="GridCell.Tab.0.right" timestamp="1596511400049">
+    <state width="1237" height="201" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596522073715" />
+    <state width="1237" height="201" key="GridCell.Tab.0.right" timestamp="1596522073715">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="258" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
-    <state width="1237" height="258" key="GridCell.Tab.1.bottom" timestamp="1596511400049">
+    <state width="1237" height="201" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596522073715" />
+    <state width="1237" height="201" key="GridCell.Tab.1.bottom" timestamp="1596522064747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="258" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
-    <state width="1237" height="258" key="GridCell.Tab.1.center" timestamp="1596511400049">
+    <state width="1237" height="201" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596522064747" />
+    <state width="1237" height="201" key="GridCell.Tab.1.center" timestamp="1596522064747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="258" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
-    <state width="1237" height="258" key="GridCell.Tab.1.left" timestamp="1596511400049">
+    <state width="1237" height="201" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596522064747" />
+    <state width="1237" height="201" key="GridCell.Tab.1.left" timestamp="1596522064747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="258" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
-    <state width="1237" height="258" key="GridCell.Tab.1.right" timestamp="1596511400049">
+    <state width="1237" height="201" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596522064747" />
+    <state width="1237" height="201" key="GridCell.Tab.1.right" timestamp="1596522064747">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="258" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
+    <state width="1237" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596522064747" />
     <state x="172" y="27" key="SettingsEditor" timestamp="1596377940792">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1162,17 +1142,17 @@
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py</url>
-          <line>244</line>
+          <line>250</line>
           <option name="timeStamp" value="362" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/tokenization.py</url>
-          <line>139</line>
+          <line>140</line>
           <option name="timeStamp" value="367" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py</url>
-          <line>195</line>
+          <line>203</line>
           <option name="timeStamp" value="371" />
         </line-breakpoint>
       </breakpoints>
@@ -1210,6 +1190,11 @@
         <watch expression=" generated[0][-(n_ctx - 1):]" />
         <watch expression="tokenizer.convert_tokens_to_ids('[UNK]')" />
         <watch expression="generated" />
+        <watch expression="len(tmp)&gt;10 and any(tmp)" />
+        <watch expression="step" />
+        <watch expression="loss_save" />
+        <watch expression="len(last)&gt;=10 and tmp" />
+        <watch expression="last&gt;=avg1*1.03" />
       </configuration>
     </watches-manager>
   </component>
@@ -1319,7 +1304,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$predict__1_.coverage" NAME="predict (1) Coverage Results" MODIFIED="1594640858475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master2" />
     <SUITE FILE_PATH="coverage/fairseq_gec$22222222222222222.coverage" NAME="22222222222222222 Coverage Results" MODIFIED="1592558634744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$roberta.coverage" NAME="roberta模型的调用 Coverage Results" MODIFIED="1595922750528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$train_single4OnlyRunThis.coverage" NAME="train_single4OnlyRunThis Coverage Results" MODIFIED="1596509402882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$train_single4OnlyRunThis.coverage" NAME="train_single4OnlyRunThis Coverage Results" MODIFIED="1596521974346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
     <SUITE FILE_PATH="coverage/fairseq_gec$7878787.coverage" NAME="7878787 Coverage Results" MODIFIED="1593397641945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$Unittests_for_66666666_TestClass.coverage" NAME="Unittests for 66666666.TestClass Coverage Results" MODIFIED="1592956892777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$run_generation__2_.coverage" NAME="run_generation (2) Coverage Results" MODIFIED="1596036563795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
@@ -1330,6 +1315,6 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$222222222222222222222222.coverage" NAME="222222222222222222222222 Coverage Results" MODIFIED="1592550406117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/nlp$pytorch_generation.coverage" NAME="pytorch_generation Coverage Results" MODIFIED="1596202766682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl" />
     <SUITE FILE_PATH="coverage/fairseq_gec$22222222222.coverage" NAME="22222222222 Coverage Results" MODIFIED="1592958178606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$generateByme.coverage" NAME="generateByme Coverage Results" MODIFIED="1596511400022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$generateByme.coverage" NAME="generateByme Coverage Results" MODIFIED="1596520795531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
   </component>
 </project>
