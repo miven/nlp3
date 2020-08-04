@@ -145,7 +145,7 @@ def main():
     args = parser.parse_args()
 #=================配置自己的参数.
 
-    args.prefix='只见一声惊雷'
+    args.prefix='爷爷推开了门'
 
 
 

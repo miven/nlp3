@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/测试结果/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/测试结果/原始gpt2训练方法" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/172166.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/config/model_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/config/model_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/train_tpu.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/train_tpu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme日常开发规范" beforeDir="false" afterPath="$PROJECT_DIR$/readme日常开发规范" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,7 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg\gpt2-ml-finetune--master\dataset" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train_single4OnlyRunThis">
+  <component name="RunManager" selected="Python.train_tpu">
     <configuration name="generateByme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,28 +173,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_single3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fairseq-gec" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master/train_single3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="train_single4OnlyRunThis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,21 +195,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="train_tpu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fairseq-gec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/train_tpu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.train_single3" />
       <item itemvalue="Python.train_single3 (1)" />
       <item itemvalue="Python.pre_data_byOnlyOneBook (1)" />
       <item itemvalue="Python.train_single4OnlyRunThis" />
       <item itemvalue="Python.generateByme" />
+      <item itemvalue="Python.train_tpu" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.train_single4OnlyRunThis" />
+        <item itemvalue="Python.train_tpu" />
         <item itemvalue="Python.generateByme" />
+        <item itemvalue="Python.train_single4OnlyRunThis" />
         <item itemvalue="Python.train_single3 (1)" />
         <item itemvalue="Python.pre_data_byOnlyOneBook (1)" />
-        <item itemvalue="Python.train_single3" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +330,7 @@
       <workItem from="1595778885170" duration="92551000" />
       <workItem from="1596209111872" duration="38134000" />
       <workItem from="1596380503186" duration="34031000" />
-      <workItem from="1596505463680" duration="10974000" />
+      <workItem from="1596505463680" duration="16400000" />
     </task>
     <servers />
   </component>
@@ -406,38 +409,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="201" key="GridCell.Tab.0.bottom" timestamp="1596522073715">
+    <state width="1237" height="201" key="GridCell.Tab.0.bottom" timestamp="1596535006228">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596522073715" />
-    <state width="1237" height="201" key="GridCell.Tab.0.center" timestamp="1596522073715">
+    <state width="1237" height="201" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596535006228" />
+    <state width="1237" height="201" key="GridCell.Tab.0.center" timestamp="1596535006228">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596522073715" />
-    <state width="1237" height="201" key="GridCell.Tab.0.left" timestamp="1596522073715">
+    <state width="1237" height="201" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596535006228" />
+    <state width="1237" height="201" key="GridCell.Tab.0.left" timestamp="1596535006227">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596522073715" />
-    <state width="1237" height="201" key="GridCell.Tab.0.right" timestamp="1596522073715">
+    <state width="1237" height="201" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596535006227" />
+    <state width="1237" height="201" key="GridCell.Tab.0.right" timestamp="1596535006228">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596522073715" />
-    <state width="1237" height="201" key="GridCell.Tab.1.bottom" timestamp="1596522064747">
+    <state width="1237" height="201" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596535006228" />
+    <state width="1237" height="201" key="GridCell.Tab.1.bottom" timestamp="1596535006131">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596522064747" />
-    <state width="1237" height="201" key="GridCell.Tab.1.center" timestamp="1596522064747">
+    <state width="1237" height="201" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596535006131" />
+    <state width="1237" height="201" key="GridCell.Tab.1.center" timestamp="1596535006131">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596522064747" />
-    <state width="1237" height="201" key="GridCell.Tab.1.left" timestamp="1596522064747">
+    <state width="1237" height="201" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596535006131" />
+    <state width="1237" height="201" key="GridCell.Tab.1.left" timestamp="1596535006131">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596522064747" />
-    <state width="1237" height="201" key="GridCell.Tab.1.right" timestamp="1596522064747">
+    <state width="1237" height="201" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596535006131" />
+    <state width="1237" height="201" key="GridCell.Tab.1.right" timestamp="1596535006131">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596522064747" />
+    <state width="1237" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596535006131" />
     <state x="172" y="27" key="SettingsEditor" timestamp="1596377940792">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1155,6 +1158,11 @@
           <line>203</line>
           <option name="timeStamp" value="371" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/train_tpu.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1292,6 +1300,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$11111111.coverage" NAME="11111111 Coverage Results" MODIFIED="1592469548899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master/999999999" />
     <SUITE FILE_PATH="coverage/fairseq_gec$eval_lm.coverage" NAME="eval_lm Coverage Results" MODIFIED="1594801149907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-456540730/1397887433/fairseq_cli" />
     <SUITE FILE_PATH="coverage/nlp$preprocess__1_.coverage" NAME="preprocess (1) Coverage Results" MODIFIED="1595727970690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer-project_byFengge/latest-fixed_by_vocab" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$train_tpu.coverage" NAME="train_tpu Coverage Results" MODIFIED="1596535006104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train" />
     <SUITE FILE_PATH="coverage/fairseq_gec$1.coverage" NAME="1 Coverage Results" MODIFIED="1595039175184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples都是非常重要的例子/bart" />
     <SUITE FILE_PATH="coverage/fairseq_gec$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1595118406055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/一些可以直接调用的nlp算法/bart" />
     <SUITE FILE_PATH="coverage/fairseq_gec$888888888889999999999.coverage" NAME="888888888889999999999 Coverage Results" MODIFIED="1593182883586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888" />
@@ -1304,7 +1313,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$predict__1_.coverage" NAME="predict (1) Coverage Results" MODIFIED="1594640858475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master2" />
     <SUITE FILE_PATH="coverage/fairseq_gec$22222222222222222.coverage" NAME="22222222222222222 Coverage Results" MODIFIED="1592558634744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$roberta.coverage" NAME="roberta模型的调用 Coverage Results" MODIFIED="1595922750528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$train_single4OnlyRunThis.coverage" NAME="train_single4OnlyRunThis Coverage Results" MODIFIED="1596521974346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$train_single4OnlyRunThis.coverage" NAME="train_single4OnlyRunThis Coverage Results" MODIFIED="1596525507454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
     <SUITE FILE_PATH="coverage/fairseq_gec$7878787.coverage" NAME="7878787 Coverage Results" MODIFIED="1593397641945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$Unittests_for_66666666_TestClass.coverage" NAME="Unittests for 66666666.TestClass Coverage Results" MODIFIED="1592956892777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$run_generation__2_.coverage" NAME="run_generation (2) Coverage Results" MODIFIED="1596036563795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
@@ -1315,6 +1324,6 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$222222222222222222222222.coverage" NAME="222222222222222222222222 Coverage Results" MODIFIED="1592550406117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/nlp$pytorch_generation.coverage" NAME="pytorch_generation Coverage Results" MODIFIED="1596202766682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl" />
     <SUITE FILE_PATH="coverage/fairseq_gec$22222222222.coverage" NAME="22222222222 Coverage Results" MODIFIED="1592958178606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$generateByme.coverage" NAME="generateByme Coverage Results" MODIFIED="1596520795531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$generateByme.coverage" NAME="generateByme Coverage Results" MODIFIED="1596533106763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
   </component>
 </project>

@@ -57,9 +57,12 @@ ctrl模型/ctrl原始代码/ctrl/training_utils/training.py
 中文nlg:
     gpt2做中文nlg/gpt2-ml-master/demo2.py
     直接运行即可.
+    然后输入点汉子,就会后面续写.
+    
+    
 
-
-
+中文nlg自己训练,加运行的代码:
+gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/README.md
 
 
 

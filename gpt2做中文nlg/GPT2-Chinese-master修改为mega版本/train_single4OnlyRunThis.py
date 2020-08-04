@@ -96,7 +96,7 @@ def main():
     '''
     args = parser.parse_args()
     args.device='1'
-    args.batch_size=12
+    args.batch_size=5
     from tokenizations import tokenization
     proj_root_path = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
     vocab_file_path ="tokenizations/clue-vocab.txt"
@@ -109,7 +109,7 @@ def main():
 
 # 下面关注一下数据集的写法.
     args.raw=True
-    args.raw_data_path='166893-small.txt'         # -small是小的版本
+    args.raw_data_path='172166.txt'         # -small是小的版本
     args.epochs=200
     args.output_dir='model/'          # 结果存到e盘的final_model
     args.num_pieces=10      # 结果存到e盘的final_model
@@ -307,7 +307,7 @@ def main():
         last=np.array(last)
         avg1=np.array(avg1)
         tmp=np.all(last >=avg1*0.97) and np.all(last>=avg1*1.03)
-        if len(last)>=10 and tmp and loss_save[-1]<0.3:
+        if len(last)>=10 and tmp and loss_save[-1]<0.05:
             break
 
 #--------------------

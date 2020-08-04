@@ -26,5 +26,6 @@ docker run -ti --user root -p 10022:22 e95a24a0d95e  /bin/bash
 
 
 nohup  python3   xxx.py    >666 2>&1 &
+nohup  python3   train_single4OnlyRunThis.py     >666 2>&1 &
 
 tail -fn 2000 666
