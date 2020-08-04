@@ -2,78 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/166893.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/cache/make_vocab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/cache/make_vocab.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/cache/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/cache/vocab_all.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/cache/vocab_guwen.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/cache/vocab_seg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/cache/vocab_small.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/config/model_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/config/model_config_small.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/config/model_config_test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/eval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generate_texts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/gpt2论文.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/pre_data_byOnlyOneBook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/doupo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/poem_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/poem_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/tiyu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/律诗绝句.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/散文1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/散文2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/散文3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/浣溪沙_江城子.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/蝶恋花_满江红.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_倚天屠龍記.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_天龍八部.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_神鵰俠侶.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_鹿鼎記.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/scripts/generate.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/scripts/train.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/bert-base-chinese-vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/bert-large-cased-whole-word-masking-vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/bpe_tokenizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/clue-vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/encoder.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/thulac_dict/seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/tokenization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/tokenization_bert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/tokenization_bert_word_level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/vocab.bpe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/CONTRIBUTORS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/DEVELOPERS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/Dockerfile.cpu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/Dockerfile.gpu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/domains.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/download_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/model_card.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/src/encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/src/generate_unconditional_samples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/src/interactive_conditional_samples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/src/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt-2-master英文原始代码/src/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/166893-small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master/train_single3.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master/train_single3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/166893.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/166893.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/config/model_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/config/model_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/doupo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/poem_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/poem_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/tiyu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/律诗绝句.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/散文1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/散文2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/散文3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/浣溪沙_江城子.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/蝶恋花_满江红.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_倚天屠龍記.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_天龍八部.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_神鵰俠侶.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/sample/金庸_鹿鼎記.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/tokenization.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/tokenization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +101,29 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg\gpt2-ml-finetune--master\dataset" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train_single4OnlyRunThis">
+  <component name="RunManager" selected="Python.generateByme">
+    <configuration name="generateByme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fairseq-gec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pre_data_byOnlyOneBook (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,28 +138,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/pre_data_byOnlyOneBook.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prepare_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fairseq-gec" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset/prepare_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,19 +236,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.prepare_data" />
       <item itemvalue="Python.train_single3" />
       <item itemvalue="Python.train_single3 (1)" />
       <item itemvalue="Python.pre_data_byOnlyOneBook (1)" />
       <item itemvalue="Python.train_single4OnlyRunThis" />
+      <item itemvalue="Python.generateByme" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.generateByme" />
         <item itemvalue="Python.train_single4OnlyRunThis" />
         <item itemvalue="Python.train_single3 (1)" />
         <item itemvalue="Python.pre_data_byOnlyOneBook (1)" />
         <item itemvalue="Python.train_single3" />
-        <item itemvalue="Python.prepare_data" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +347,7 @@
       <workItem from="1595778885170" duration="92551000" />
       <workItem from="1596209111872" duration="38134000" />
       <workItem from="1596380503186" duration="34031000" />
-      <workItem from="1596505463680" duration="2152000" />
+      <workItem from="1596505463680" duration="5859000" />
     </task>
     <servers />
   </component>
@@ -409,10 +362,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="358" y="0" key="#111/0.0.1280.680@0.0.1280.680" timestamp="1595955910563" />
-    <state x="17" y="5" key="#Deployment" timestamp="1596378272479">
+    <state x="17" y="5" key="#Deployment" timestamp="1596508254917">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="17" y="5" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1596378272479" />
+    <state x="17" y="5" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1596508254917" />
     <state x="414" y="66" width="584" height="504" key="#Docker" timestamp="1592288438230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -425,18 +378,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="610" y="44" key="#Docker3/0.0.1280.680@0.0.1280.680" timestamp="1592288737688" />
-    <state x="233" y="3" key="#Options" timestamp="1596378320592">
+    <state x="233" y="3" key="#Options" timestamp="1596508224651">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="3" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1596378320592" />
+    <state x="233" y="3" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1596508224651" />
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596328398218">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596328398218" />
-    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596442858974">
+    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596509434280">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596442858974" />
+    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596509434280" />
     <state x="358" y="0" key="#pytorch_generation" timestamp="1596246409681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -473,38 +426,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="227" key="GridCell.Tab.0.bottom" timestamp="1596507602127">
+    <state width="1237" height="258" key="GridCell.Tab.0.bottom" timestamp="1596511400049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596507602127" />
-    <state width="1237" height="227" key="GridCell.Tab.0.center" timestamp="1596507602126">
+    <state width="1237" height="258" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
+    <state width="1237" height="258" key="GridCell.Tab.0.center" timestamp="1596511400049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596507602126" />
-    <state width="1237" height="227" key="GridCell.Tab.0.left" timestamp="1596507602126">
+    <state width="1237" height="258" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
+    <state width="1237" height="258" key="GridCell.Tab.0.left" timestamp="1596511400049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596507602126" />
-    <state width="1237" height="227" key="GridCell.Tab.0.right" timestamp="1596507602127">
+    <state width="1237" height="258" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
+    <state width="1237" height="258" key="GridCell.Tab.0.right" timestamp="1596511400049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596507602127" />
-    <state width="1237" height="227" key="GridCell.Tab.1.bottom" timestamp="1596507602127">
+    <state width="1237" height="258" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
+    <state width="1237" height="258" key="GridCell.Tab.1.bottom" timestamp="1596511400049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596507602127" />
-    <state width="1237" height="227" key="GridCell.Tab.1.center" timestamp="1596507602127">
+    <state width="1237" height="258" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
+    <state width="1237" height="258" key="GridCell.Tab.1.center" timestamp="1596511400049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596507602127" />
-    <state width="1237" height="227" key="GridCell.Tab.1.left" timestamp="1596507602127">
+    <state width="1237" height="258" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
+    <state width="1237" height="258" key="GridCell.Tab.1.left" timestamp="1596511400049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596507602127" />
-    <state width="1237" height="227" key="GridCell.Tab.1.right" timestamp="1596507602127">
+    <state width="1237" height="258" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
+    <state width="1237" height="258" key="GridCell.Tab.1.right" timestamp="1596511400049">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="227" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596507602127" />
+    <state width="1237" height="258" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596511400049" />
     <state x="172" y="27" key="SettingsEditor" timestamp="1596377940792">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -513,10 +466,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1596507617708" />
-    <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596024533983">
+    <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596511019914">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1596024533983" />
+    <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1596511019914" />
     <state x="332" y="95" width="824" height="490" key="find.popup" timestamp="1596363705801">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1127,100 +1080,100 @@
           <line>461</line>
           <option name="timeStamp" value="304" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/111.py</url>
           <line>5</line>
           <option name="timeStamp" value="305" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/22222222/gector-master2/predict.py</url>
           <line>6</line>
           <option name="timeStamp" value="307" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/run_generation (2)_for_ctrl.py</url>
           <line>106</line>
           <option name="timeStamp" value="311" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/run_generation (2)_for_ctrl.py</url>
           <line>290</line>
           <option name="timeStamp" value="312" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/tokenization_ctrl经典的bpe算法教学版.py</url>
           <line>276</line>
           <option name="timeStamp" value="315" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/tokenization_ctrl经典的bpe算法教学版.py</url>
           <line>275</line>
           <option name="timeStamp" value="316" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/run_generation (2)_for_ctrl.py</url>
           <line>303</line>
           <option name="timeStamp" value="321" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl/pytorch_generation.py</url>
           <line>156</line>
           <option name="timeStamp" value="325" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl/pytorch_generation.py</url>
           <line>194</line>
           <option name="timeStamp" value="326" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl/pytorch_generation.py</url>
           <line>143</line>
           <option name="timeStamp" value="327" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl/pytorch_generation.py</url>
           <line>146</line>
           <option name="timeStamp" value="328" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl/transformer.py</url>
           <line>126</line>
           <option name="timeStamp" value="331" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/scripts/demo.py</url>
           <line>197</line>
           <option name="timeStamp" value="338" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset/pre_data.py</url>
           <line>60</line>
           <option name="timeStamp" value="339" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset/prepare_data.py</url>
           <line>73</line>
           <option name="timeStamp" value="342" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master/train_single3.py</url>
           <line>54</line>
           <option name="timeStamp" value="348" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+        <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py</url>
-          <line>217</line>
-          <option name="timeStamp" value="358" />
+          <line>244</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/tokenizations/tokenization.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="367" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py</url>
-          <line>261</line>
-          <option name="timeStamp" value="359" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py</url>
-          <line>171</line>
-          <option name="timeStamp" value="361" />
+          <url>file://$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="371" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1254,6 +1207,9 @@
         <watch expression="tokenizer.convert_tokens_to_ids" />
         <watch expression="tokenizer" />
         <watch expression="full_tokenizer" />
+        <watch expression=" generated[0][-(n_ctx - 1):]" />
+        <watch expression="tokenizer.convert_tokens_to_ids('[UNK]')" />
+        <watch expression="generated" />
       </configuration>
     </watches-manager>
   </component>
@@ -1363,7 +1319,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$predict__1_.coverage" NAME="predict (1) Coverage Results" MODIFIED="1594640858475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master2" />
     <SUITE FILE_PATH="coverage/fairseq_gec$22222222222222222.coverage" NAME="22222222222222222 Coverage Results" MODIFIED="1592558634744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$roberta.coverage" NAME="roberta模型的调用 Coverage Results" MODIFIED="1595922750528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习roberta/roberta/commonsense_qa" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$train_single4OnlyRunThis.coverage" NAME="train_single4OnlyRunThis Coverage Results" MODIFIED="1596507550498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$train_single4OnlyRunThis.coverage" NAME="train_single4OnlyRunThis Coverage Results" MODIFIED="1596509402882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
     <SUITE FILE_PATH="coverage/fairseq_gec$7878787.coverage" NAME="7878787 Coverage Results" MODIFIED="1593397641945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$Unittests_for_66666666_TestClass.coverage" NAME="Unittests for 66666666.TestClass Coverage Results" MODIFIED="1592956892777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$run_generation__2_.coverage" NAME="run_generation (2) Coverage Results" MODIFIED="1596036563795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
@@ -1374,5 +1330,6 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$222222222222222222222222.coverage" NAME="222222222222222222222222 Coverage Results" MODIFIED="1592550406117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/nlp$pytorch_generation.coverage" NAME="pytorch_generation Coverage Results" MODIFIED="1596202766682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl" />
     <SUITE FILE_PATH="coverage/fairseq_gec$22222222222.coverage" NAME="22222222222 Coverage Results" MODIFIED="1592958178606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$generateByme.coverage" NAME="generateByme Coverage Results" MODIFIED="1596511400022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
   </component>
 </project>

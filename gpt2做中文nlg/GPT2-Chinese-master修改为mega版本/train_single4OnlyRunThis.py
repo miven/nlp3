@@ -95,7 +95,8 @@ def main():
     配置参数-------------------------------------------------------------------
     '''
     args = parser.parse_args()
-    args.device='-1'
+    args.device='0'
+    args.batch_size=5
     from tokenizations import tokenization
     proj_root_path = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
     vocab_file_path ="tokenizations/clue-vocab.txt"
@@ -108,13 +109,17 @@ def main():
 
 # 下面关注一下数据集的写法.
     args.raw=True
-    args.raw_data_path='166893.txt'
-    args.output_dir='E:/'          # 结果存到e盘的final_model
+    args.raw_data_path='166893-small.txt'
+    args.epochs=20
+    args.output_dir='model/'          # 结果存到e盘的final_model
     args.num_pieces=100      # 结果存到e盘的final_model
     from pre_data_byOnlyOneBook import get_data as get_data
     name2=args.raw_data_path.split('.')[0]
     get_data(name2+'.txt',name2+'.json')
     # 下面使用166893.json即可.
+    '''
+    ------------------------------------------------------------------------------
+    '''
 
 
 
@@ -129,7 +134,7 @@ def main():
     else:
         from tokenizations import tokenization_bert
     os.environ["CUDA_VISIBLE_DEVICES"] = args.device  # 此处设置程序使用哪些显卡
-    model_config = transformers.modeling_gpt2.GPT2Config.from_json_file(args.model_config)
+    model_config = transformers.modeling_gpt2.GPT2Config.from_json_file(args.model_config)# 这个参数很重要,表示一句话的长度.
     print('config:\n' + model_config.to_json_string())
     n_ctx = model_config.n_ctx
     # full_tokenizer = tokenization_bert.BertTokenizer(vocab_file=args.tokenizer_path)
@@ -225,7 +230,7 @@ def main():
             if start_point < len(tokens): # 拼接上最后一个例子.
                 samples.append(tokens[len(tokens)-n_ctx:])
             random.shuffle(samples)
-            for step in range((len(samples) // batch_size)+1):
+            for step in range((len(samples) // batch_size)):
 
                 #  prepare data
                 batch = samples[step * batch_size: (step + 1) * batch_size]

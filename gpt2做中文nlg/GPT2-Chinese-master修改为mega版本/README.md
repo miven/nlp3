@@ -3,6 +3,19 @@ https://github.com/Morizeyao/GPT2-Chinese
 
 
 
+线运行
+
+gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/pre_data_byOnlyOneBook.py
+
+在运行
+
+
+gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py
+
+
+
+
+
 
 # GPT2-Chinese
 

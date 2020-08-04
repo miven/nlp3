@@ -136,6 +136,13 @@ def load_vocab(vocab_file):
 def convert_by_vocab(vocab, items):
   """Converts a sequence of [tokens|ids] using the vocab."""
   output = []
+  try:
+    t=''.join(items)
+    if t in vocab:# 如果整体在就别拆了.
+      output.append(vocab[t])
+      return output
+  except:
+    pass
   for item in items:
     output.append(vocab[item])
   return output
