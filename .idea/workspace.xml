@@ -2,127 +2,177 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/元学习/11111111111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/algorithm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/CIFAR_FS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/FC100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/mini_imagenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/tiered_imagenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/R2D2_embedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/ResNet12_embedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/classification_heads.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/dropblock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/protonet_embedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/.idea/KB_query.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/csv2txt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/jay.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/movie_title.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/movie_title.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/person_name.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/person_name.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/jena_sparql_endpoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/query_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/question2sparql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/question_temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/word_tagging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/fuseki_conf.ttl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/查询结果展示.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/歌曲知识图谱.owl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/166893-small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/166893.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/166893.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/172166.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/make_vocab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/make_vocab.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab_all.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab_guwen.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab_seg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab_small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/config/model_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/config/model_config_small.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/config/model_config_test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_30.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_31.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_32.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_34.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_35.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_36.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_37.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_39.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_41.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_42.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_43.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_44.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_45.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_46.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_47.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_49.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_51.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_52.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_53.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_54.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_55.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_56.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_58.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_59.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_60.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_61.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_62.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_63.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_64.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_65.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_66.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_67.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_68.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_69.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_70.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_71.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_72.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_73.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_74.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_75.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_76.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_77.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_78.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_79.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_80.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_81.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_82.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_83.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_84.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_85.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_86.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_87.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_88.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_89.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_90.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_91.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_92.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_93.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_94.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_95.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_96.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_97.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_98.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_99.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/generate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/generateByme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/generate_texts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/gpt2论文.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/pre_data_byOnlyOneBook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/scripts/generate.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/scripts/train.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/bert-base-chinese-vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/bert-large-cased-whole-word-masking-vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/bpe_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/clue-vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/encoder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/thulac_dict/seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/tokenization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/tokenization_bert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/tokenization_bert_word_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/vocab.bpe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train_single.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train_single2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train_single3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train_single4OnlyRunThis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/测试结果/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/测试结果/原始gpt2训练方法" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhangcpu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/const.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/service/retrieval_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/service/template_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/neo4j_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/nlu_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/solr_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/web/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/embedding_h5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/wordvector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/contents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/lua.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/lua.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/luac.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/manual.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/manual.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/osi-certified-72x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/readme.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lapi.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lapi.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lauxlib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lauxlib.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lbaselib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lcode.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lcode.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lcorolib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lctype.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lctype.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldblib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldebug.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldebug.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldo.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldo.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldump.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lfunc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lfunc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lgc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lgc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/linit.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/liolib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ljumptab.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/llex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/llex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/llimits.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lmathlib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lmem.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lmem.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/loadlib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lobject.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lopcodes.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lopcodes.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lopnames.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/loslib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lparser.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lparser.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lprefix.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstate.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstring.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstring.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstrlib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltable.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltable.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltablib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltm.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltm.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lua.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lua.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lua.hpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/luac.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/luaconf.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lualib.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lundump.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lundump.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lutf8lib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lvm.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lvm.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lzio.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lzio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/mini_imagenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/mini_imagenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/classification_heads.py" beforeDir="false" afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/classification_heads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhang.py" beforeDir="false" afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,18 +226,18 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/元学习/MetaOptNet-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/知识图谱项目" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/文本生成/GPT2-Chinese-master/tokenizations/tokenization_bert_word_level.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\知识图谱项目" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\元学习\MetaOptNet-master" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\元学习" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\知识图谱项目" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\lua源码" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg\gpt2-ml-master" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\ctrl模型\ctrl原始代码\ctrl\training_utils" />
@@ -197,8 +247,8 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train2byZhang">
-    <configuration name="generateByme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.train2byZhangcpu">
+    <configuration name="mini_imagenet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,12 +256,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元学习/MetaOptNet-master/data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/generateByme.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/元学习/MetaOptNet-master/data/mini_imagenet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,6 +314,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="train2byZhangcpu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fairseq-gec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元学习/MetaOptNet-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhangcpu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="train_tpu (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,43 +380,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_tpu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fairseq-gec" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/train_tpu.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.generateByme" />
-      <item itemvalue="Python.train_tpu" />
       <item itemvalue="Python.train_tpu (1)" />
       <item itemvalue="Python.train_tpu (2)" />
       <item itemvalue="Python.train2byZhang" />
+      <item itemvalue="Python.mini_imagenet" />
+      <item itemvalue="Python.train2byZhangcpu" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.train2byZhangcpu" />
         <item itemvalue="Python.train2byZhang" />
+        <item itemvalue="Python.mini_imagenet" />
         <item itemvalue="Python.train_tpu (2)" />
         <item itemvalue="Python.train_tpu (1)" />
-        <item itemvalue="Python.train_tpu" />
-        <item itemvalue="Python.generateByme" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +494,7 @@
       <workItem from="1596209111872" duration="38134000" />
       <workItem from="1596380503186" duration="34031000" />
       <workItem from="1596505463680" duration="22333000" />
-      <workItem from="1596693413134" duration="6390000" />
+      <workItem from="1596693413134" duration="15617000" />
     </task>
     <servers />
   </component>
@@ -459,10 +509,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="358" y="0" key="#111/0.0.1280.680@0.0.1280.680" timestamp="1595955910563" />
-    <state x="17" y="5" key="#Deployment" timestamp="1596536593553">
+    <state x="17" y="5" key="#Deployment" timestamp="1596765405542">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="17" y="5" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1596536593553" />
+    <state x="17" y="5" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1596765405542" />
     <state x="414" y="66" width="584" height="504" key="#Docker" timestamp="1592288438230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -523,22 +573,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="211" key="GridCell.Tab.0.bottom" timestamp="1596764887911">
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1596785891007">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596764887911" />
-    <state width="1237" height="211" key="GridCell.Tab.0.center" timestamp="1596764887910">
+    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596785891007" />
+    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1596785891007">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596764887910" />
-    <state width="1237" height="211" key="GridCell.Tab.0.left" timestamp="1596764887910">
+    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596785891007" />
+    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1596785891007">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596764887910" />
-    <state width="1237" height="211" key="GridCell.Tab.0.right" timestamp="1596764887911">
+    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596785891007" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1596785891007">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596764887911" />
+    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596785891007" />
     <state width="1237" height="183" key="GridCell.Tab.1.bottom" timestamp="1596555401130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1282,6 +1332,11 @@
           <line>563</line>
           <option name="timeStamp" value="385" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhangcpu.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1345,6 +1400,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$train_finetune_latest2.coverage" NAME="train_finetune_latest2 Coverage Results" MODIFIED="1594630084486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$preprocess2.coverage" NAME="preprocess2 Coverage Results" MODIFIED="1594945413037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PreSumm2/src" />
     <SUITE FILE_PATH="coverage/nlp$kkk.coverage" NAME="kkk Coverage Results" MODIFIED="1595514152420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer-project_byFengge/attention-is-all-you-need-pytorch-master88888888latest" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$mini_imagenet.coverage" NAME="mini_imagenet Coverage Results" MODIFIED="1596765442392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元学习/MetaOptNet-master/data" />
     <SUITE FILE_PATH="coverage/fairseq_gec$main.coverage" NAME="main Coverage Results" MODIFIED="1592970868219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
     <SUITE FILE_PATH="coverage/nlp$train_finetune_latest3.coverage" NAME="train_finetune_latest3 Coverage Results" MODIFIED="1595302055470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master2" />
     <SUITE FILE_PATH="coverage/fairseq_gec$222222222222222.coverage" NAME="222222222222222 Coverage Results" MODIFIED="1596440972399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset" />
@@ -1381,7 +1437,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$bert_token_embedder.coverage" NAME="bert_token_embedder Coverage Results" MODIFIED="1594002607429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master/gector" />
     <SUITE FILE_PATH="coverage/nlp$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1595818871451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer666/latest-vocab2" />
     <SUITE FILE_PATH="coverage/fairseq_gec$run_secret_sharing_vertically_linear_regression.coverage" NAME="run_secret_sharing_vertically_linear_regression Coverage Results" MODIFIED="1592439994168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Secret-sharing-based_2PC_vertical_fed_learning" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$train2byZhang.coverage" NAME="train2byZhang Coverage Results" MODIFIED="1596764887897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元学习/MetaOptNet-master" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$train2byZhang.coverage" NAME="train2byZhang Coverage Results" MODIFIED="1596765501835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元学习/MetaOptNet-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$pre_data.coverage" NAME="pre_data Coverage Results" MODIFIED="1596430657556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset" />
     <SUITE FILE_PATH="coverage/fairseq_gec$56565656.coverage" NAME="56565656 Coverage Results" MODIFIED="1596378182552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$.coverage" NAME="迭代器读取 Coverage Results" MODIFIED="1595584730341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1421,6 +1477,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$2222222222222222222.coverage" NAME="2222222222222222222 Coverage Results" MODIFIED="1593181210031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888" />
     <SUITE FILE_PATH="coverage/fairseq_gec$pre_data_byOnlyOneBook__1_.coverage" NAME="pre_data_byOnlyOneBook (1) Coverage Results" MODIFIED="1596504555455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
     <SUITE FILE_PATH="coverage/fairseq_gec$11111111.coverage" NAME="11111111 Coverage Results" MODIFIED="1592469548899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master/999999999" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$train2byZhangcpu.coverage" NAME="train2byZhangcpu Coverage Results" MODIFIED="1596765711715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元学习/MetaOptNet-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$eval_lm.coverage" NAME="eval_lm Coverage Results" MODIFIED="1594801149907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-456540730/1397887433/fairseq_cli" />
     <SUITE FILE_PATH="coverage/nlp$preprocess__1_.coverage" NAME="preprocess (1) Coverage Results" MODIFIED="1595727970690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer-project_byFengge/latest-fixed_by_vocab" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_tpu.coverage" NAME="train_tpu Coverage Results" MODIFIED="1596535260711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train" />

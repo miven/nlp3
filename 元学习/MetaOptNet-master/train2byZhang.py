@@ -23,6 +23,11 @@ python train.py --gpu 0,1,2,3 --save-path "./experiments/miniImageNet_MetaOptNet
     --head SVM --network ResNet --dataset miniImageNet --eps 0.1
 '''
 
+
+
+
+
+device='cpu'
 def one_hot(indices, depth):
     """
     Returns a one-hot tensor.

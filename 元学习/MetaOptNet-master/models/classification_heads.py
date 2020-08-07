@@ -502,7 +502,8 @@ def MetaOptNetHead_SVM_WW(query, support, support_labels, n_way, n_shot, C_reg=0
     #                 subject to Cz <= h
     # We use detach() to prevent backpropagation to fixed variables.
     #qp_sol = QPFunction(verbose=False)(G, e.detach(), C.detach(), h.detach(), dummy.detach(), dummy.detach())
-    qp_sol = QPFunction(verbose=False)(G, e, C, h, dummy.detach(), dummy.detach())
+    qp_sol = QPFunction(verbose=False)(G, e, C, h, dummy.detach(), dummy.detach()) # 调用这个Qp解决二次规划问题.
+    # 也就是svm 对偶问题.
 
     # Compute the classification score.
     compatibility = computeGramMatrix(support, query) + torch.ones(tasks_per_batch, n_support, n_query).cuda()
