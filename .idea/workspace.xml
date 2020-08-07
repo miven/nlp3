@@ -2,94 +2,127 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train_tpu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/contents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/lua.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/lua.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/luac.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/manual.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/manual.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/osi-certified-72x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/readme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lapi.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lapi.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lauxlib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lauxlib.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lbaselib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lcode.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lcode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lcorolib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lctype.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lctype.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldblib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldebug.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldebug.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldo.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldump.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lfunc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lfunc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lgc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lgc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/linit.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/liolib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ljumptab.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/llex.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/llex.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/llimits.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lmathlib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lmem.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lmem.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/loadlib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lobject.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lobject.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lopcodes.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lopcodes.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lopnames.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/loslib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lparser.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lparser.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lprefix.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstate.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstring.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstring.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstrlib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltable.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltable.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltablib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltm.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltm.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lua.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lua.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lua.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/luac.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/luaconf.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lualib.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lundump.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lundump.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lutf8lib.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lvm.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lvm.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lzio.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lzio.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/11111111111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/CIFAR_FS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/FC100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/mini_imagenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/tiered_imagenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/R2D2_embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/ResNet12_embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/classification_heads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/dropblock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/protonet_embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/元学习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/.idea/KB_query.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/csv2txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/jay.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/movie_title.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/movie_title.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/person_name.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/external_dict/person_name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/jena_sparql_endpoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/query_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/question2sparql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/question_temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/KB_query/word_tagging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/fuseki_conf.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/查询结果展示.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/歌曲知识图谱.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/configs/mega.json" beforeDir="false" afterPath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/configs/mega.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/dataloader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/modeling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/optimization_adafactor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/train_tpu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/train_tpu_adafactor.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/contents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/lua.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/lua.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/luac.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/manual.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/manual.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/osi-certified-72x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/doc/readme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lapi.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lapi.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lauxlib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lauxlib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lbaselib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lcode.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lcode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lcorolib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lctype.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lctype.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldblib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldebug.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldebug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldo.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ldump.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lfunc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lfunc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lgc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lgc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/linit.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/liolib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ljumptab.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/llex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/llex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/llimits.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lmathlib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lmem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lmem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/loadlib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lobject.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lopcodes.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lopcodes.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lopnames.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/loslib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lparser.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lparser.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lprefix.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstate.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstring.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstring.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lstrlib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltable.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltablib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/ltm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lua.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lua.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lua.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/luac.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/luaconf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lualib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lundump.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lundump.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lutf8lib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lvm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lvm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lzio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lua源码/lua-5.4.0/src/lzio.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,12 +176,19 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lua源码" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/元学习/MetaOptNet-master" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/文本生成/GPT2-Chinese-master/tokenizations/tokenization_bert_word_level.py" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\元学习\MetaOptNet-master" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\元学习" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\知识图谱项目" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\lua源码" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg\gpt2-ml-master" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\ctrl模型\ctrl原始代码\ctrl\training_utils" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\文本生成\huggingface重要例子" />
@@ -156,15 +196,8 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\8989\888888888888888\889" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\lua源码" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg\gpt2-ml-master" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg\GPT2-Chinese-master修改为mega版本" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg\GPT2-Chinese-master\tokenizations" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.train_tpu (2)">
+  <component name="RunManager" selected="Python.train2byZhang">
     <configuration name="generateByme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_single4OnlyRunThis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="train2byZhang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,12 +250,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元学习/MetaOptNet-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/train_single4OnlyRunThis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhang.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,19 +332,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.train_single4OnlyRunThis" />
       <item itemvalue="Python.generateByme" />
       <item itemvalue="Python.train_tpu" />
       <item itemvalue="Python.train_tpu (1)" />
       <item itemvalue="Python.train_tpu (2)" />
+      <item itemvalue="Python.train2byZhang" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.train2byZhang" />
         <item itemvalue="Python.train_tpu (2)" />
         <item itemvalue="Python.train_tpu (1)" />
         <item itemvalue="Python.train_tpu" />
         <item itemvalue="Python.generateByme" />
-        <item itemvalue="Python.train_single4OnlyRunThis" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +443,8 @@
       <workItem from="1595778885170" duration="92551000" />
       <workItem from="1596209111872" duration="38134000" />
       <workItem from="1596380503186" duration="34031000" />
-      <workItem from="1596505463680" duration="21679000" />
+      <workItem from="1596505463680" duration="22333000" />
+      <workItem from="1596693413134" duration="6390000" />
     </task>
     <servers />
   </component>
@@ -489,42 +523,42 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="211" key="GridCell.Tab.0.bottom" timestamp="1596537298487">
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom" timestamp="1596764887911">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596537298487" />
-    <state width="1237" height="211" key="GridCell.Tab.0.center" timestamp="1596537298487">
+    <state width="1237" height="211" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596764887911" />
+    <state width="1237" height="211" key="GridCell.Tab.0.center" timestamp="1596764887910">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596537298487" />
-    <state width="1237" height="211" key="GridCell.Tab.0.left" timestamp="1596537298487">
+    <state width="1237" height="211" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596764887910" />
+    <state width="1237" height="211" key="GridCell.Tab.0.left" timestamp="1596764887910">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596537298487" />
-    <state width="1237" height="211" key="GridCell.Tab.0.right" timestamp="1596537298487">
+    <state width="1237" height="211" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596764887910" />
+    <state width="1237" height="211" key="GridCell.Tab.0.right" timestamp="1596764887911">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="211" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596537298487" />
-    <state width="1237" height="183" key="GridCell.Tab.1.bottom" timestamp="1596536283760">
+    <state width="1237" height="211" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596764887911" />
+    <state width="1237" height="183" key="GridCell.Tab.1.bottom" timestamp="1596555401130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596536283760" />
-    <state width="1237" height="183" key="GridCell.Tab.1.center" timestamp="1596536283758">
+    <state width="1237" height="183" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596555401130" />
+    <state width="1237" height="183" key="GridCell.Tab.1.center" timestamp="1596555401129">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596536283758" />
-    <state width="1237" height="183" key="GridCell.Tab.1.left" timestamp="1596536283758">
+    <state width="1237" height="183" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596555401129" />
+    <state width="1237" height="183" key="GridCell.Tab.1.left" timestamp="1596555401129">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596536283758" />
-    <state width="1237" height="183" key="GridCell.Tab.1.right" timestamp="1596536283758">
+    <state width="1237" height="183" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596555401129" />
+    <state width="1237" height="183" key="GridCell.Tab.1.right" timestamp="1596555401130">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596536283758" />
-    <state x="172" y="27" key="SettingsEditor" timestamp="1596377940792">
+    <state width="1237" height="183" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596555401130" />
+    <state x="127" y="0" key="SettingsEditor" timestamp="1596555301956">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="172" y="27" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596377940792" />
+    <state x="127" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596555301956" />
     <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1596507617708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1130,17 +1164,17 @@
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-750683277/-1193385700/transformers/modeling_ctrl.py</url>
-          <line>469</line>
+          <line>396</line>
           <option name="timeStamp" value="301" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-750683277/-1193385700/transformers/modeling_ctrl.py</url>
-          <line>364</line>
+          <line>301</line>
           <option name="timeStamp" value="303" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-750683277/-1193385700/transformers/modeling_ctrl.py</url>
-          <line>461</line>
+          <line>388</line>
           <option name="timeStamp" value="304" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
@@ -1347,6 +1381,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$bert_token_embedder.coverage" NAME="bert_token_embedder Coverage Results" MODIFIED="1594002607429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master/gector" />
     <SUITE FILE_PATH="coverage/nlp$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1595818871451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer666/latest-vocab2" />
     <SUITE FILE_PATH="coverage/fairseq_gec$run_secret_sharing_vertically_linear_regression.coverage" NAME="run_secret_sharing_vertically_linear_regression Coverage Results" MODIFIED="1592439994168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Secret-sharing-based_2PC_vertical_fed_learning" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$train2byZhang.coverage" NAME="train2byZhang Coverage Results" MODIFIED="1596764887897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元学习/MetaOptNet-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$pre_data.coverage" NAME="pre_data Coverage Results" MODIFIED="1596430657556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset" />
     <SUITE FILE_PATH="coverage/fairseq_gec$56565656.coverage" NAME="56565656 Coverage Results" MODIFIED="1596378182552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$.coverage" NAME="迭代器读取 Coverage Results" MODIFIED="1595584730341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
