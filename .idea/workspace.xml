@@ -2,177 +2,243 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/166893-small.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/166893.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/166893.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/172166.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/make_vocab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/make_vocab.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab_all.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab_guwen.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab_seg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/cache/vocab_small.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/config/model_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/config/model_config_small.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/config/model_config_test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_51.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_52.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_53.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_54.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_56.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_57.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_58.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_59.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_60.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_61.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_62.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_63.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_64.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_65.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_66.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_67.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_68.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_69.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_70.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_71.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_72.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_73.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_74.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_75.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_76.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_77.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_78.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_79.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_80.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_81.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_82.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_83.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_84.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_85.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_86.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_87.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_88.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_89.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_90.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_91.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_92.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_93.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_94.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_95.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_96.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_97.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_98.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/data/tokenized/tokenized_train_99.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/eval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/generate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/generateByme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/generate_texts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/gpt2论文.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/pre_data_byOnlyOneBook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/scripts/generate.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/scripts/train.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/bert-base-chinese-vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/bert-large-cased-whole-word-masking-vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/bpe_tokenizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/clue-vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/encoder.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/thulac_dict/seg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/tokenization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/tokenization_bert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/tokenization_bert_word_level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/tokenizations/vocab.bpe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train_single.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train_single2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train_single3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/train_single4OnlyRunThis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/测试结果/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本最新版自己训练版本/测试结果/原始gpt2训练方法" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhangcpu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/const.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/service/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/service/retrieval_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/service/template_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/neo4j_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/nlu_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/utils/solr_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/web/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/embedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/embedding_h5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/KnowledgeGraph-QA-Service-master/wordembedding/wordvector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/句法依存分析/222222222222/213213.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/句法依存分析/222222222222/dict1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/21321312.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/build_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/data/alias_vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/data/complications_vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/data/disease.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/data/disease_vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/data/stop_words.utf8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/data/symptom_vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/data/vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/entity_extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/img/效果图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/img/知识图谱.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/kbqa_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/model/intent_reg_model.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/model/tfidf_model.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/search_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/arq.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/infer.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/iri.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/juuid.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/nquads.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/ntriples.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/qparse.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/rdfcat.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/rdfcompare.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/rdfcopy.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/rdfdiff.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/rdfparse.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/rdfxml.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/riot.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/rset.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/rsparql.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/rupdate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/schemagen.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/shacl.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/sparql.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdb2_tdbbackup.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdb2_tdbcompact.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdb2_tdbdump.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdb2_tdbloader.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdb2_tdbquery.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdb2_tdbstats.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdb2_tdbupdate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdbbackup.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdbdump.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdbloader.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdbquery.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdbstats.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/tdbupdate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/trig.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/turtle.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/uparse.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/update.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/utf8.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/wwwdec.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bat/wwwenc.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/arq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/infer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/iri" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/jena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/juuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/nquads" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/ntriples" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/qparse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/rdfcat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/rdfcompare" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/rdfcopy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/rdfdiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/rdfparse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/rdfxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/riot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/rset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/rsparql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/rupdate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/schemagen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/shacl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/sparql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdb2.tdbbackup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdb2.tdbcompact" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdb2.tdbdump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdb2.tdbloader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdb2.tdbquery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdb2.tdbstats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdb2.tdbupdate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbbackup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbdump" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbloader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbloader2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbloader2common" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbloader2data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbloader2index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbquery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbstats" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/tdbupdate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/trig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/turtle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/uparse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/update" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/utf8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/wwwdec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/bin/wwwenc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib-src/jena-arq-3.16.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib-src/jena-cmds-3.16.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib-src/jena-core-3.16.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib-src/jena-rdfconnection-3.16.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib-src/jena-shacl-3.16.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib-src/jena-tdb-3.16.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/collection-0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/commons-cli-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/commons-codec-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/commons-compress-1.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/commons-csv-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/commons-lang3-3.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/httpclient-4.5.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/httpclient-cache-4.5.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/httpcore-4.4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jackson-annotations-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jackson-core-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jackson-databind-2.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jcl-over-slf4j-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-arq-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-base-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-cmds-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-core-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-dboe-base-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-dboe-index-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-dboe-storage-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-dboe-trans-data-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-dboe-transaction-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-iri-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-rdfconnection-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-shacl-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-shaded-guava-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-tdb-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jena-tdb2-3.16.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/jsonld-java-0.12.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/libthrift-0.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/log4j-api-2.13.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/log4j-core-2.13.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/log4j-slf4j-impl-2.13.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/lib/slf4j-api-1.7.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/AlgebraEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/AlgebraExec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/ExProg1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/ExProg2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/ExQuerySelect1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/ExQuerySelect2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/ExampleDBpedia1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/ExampleDBpedia2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/ExampleDBpedia3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/aggregates/CustomAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/bgpmatching/OpExecutorAlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/bgpmatching/StageAltMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/bgpmatching/StageGeneratorAlt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/constructquads/ExampleConstructQuads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/engine/MyQueryEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/filter/classify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/propertyfunction/labelSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/propertyfunction/localname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/propertyfunction/uppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOT1_ReadModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOT2_ReadDataset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOT3_RDFParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOT4_StreamRDF_Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOT5_StreamRDFCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOT6_AddNewReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOT7_ParserPiped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOT_RDFXML_ReaderProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOT_RDFXML_WriteProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOTw1_writeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOTw2_writeRDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/ExRIOTw3_AddNewWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/riot/Ex_WriteJsonLD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/update/UpdateExecuteOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/update/UpdateProgrammatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/arq/examples/update/UpdateReadFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/data/camera.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/data/eswc-2006-09-21.rdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/data/test1.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/data/test2.owl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/bin/get-data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/src/main/java/org/apache/jena/example/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/src/main/java/org/apache/jena/example/CheeseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/src/main/java/org/apache/jena/example/helloworld/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/src/main/java/org/apache/jena/example/pizza/PizzaSparqlNoInf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/src/main/java/org/apache/jena/example/streaming/StreamRDFToConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/src/main/resources/data/cheeses-0.1.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/src/main/resources/data/pizza.owl.rdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/src/main/resources/ontologies/cheese.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena-examples/src/test/java/org/apache/jena_examples/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/ontology/classHierarchy/ClassHierarchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/ontology/classHierarchy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/ontology/describeClass/DescribeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/ontology/describeClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/jena/examples/rdf/Tutorial11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExQuadFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExTDB1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExTDB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExTDB3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExTDB4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExTDB5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExTDB6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExTDB_Txn1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExTDB_Txn2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/apache-jena-3.16.0/src-examples/tdb/examples/ExTDB_Txn3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/ex002.ttl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/ex003.rq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/setUpKG/运行方法" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/mini_imagenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/data/mini_imagenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1111111.py" beforeDir="false" afterPath="$PROJECT_DIR$/1111111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme日常开发规范" beforeDir="false" afterPath="$PROJECT_DIR$/readme日常开发规范" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/classification_heads.py" beforeDir="false" afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/classification_heads.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhang.py" beforeDir="false" afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhang.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/知识图谱项目/Jay_KG-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhangcpu.py" beforeDir="false" afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhangcpu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,16 +294,16 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/知识图谱项目" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/文本生成/GPT2-Chinese-master/tokenizations/tokenization_bert_word_level.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\知识图谱项目" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\知识图谱项目\setUpKG" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gpt2做中文nlg" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\元学习\MetaOptNet-master" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\元学习" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\lua源码" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\ctrl模型\ctrl原始代码\ctrl\training_utils" />
@@ -247,8 +313,8 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train2byZhangcpu">
-    <configuration name="mini_imagenet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.213213">
+    <configuration name="1111111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,12 +322,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元学习/MetaOptNet-master/data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/元学习/MetaOptNet-master/data/mini_imagenet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1111111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="213213" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fairseq-gec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/句法依存分析/222222222222" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/句法依存分析/222222222222/213213.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="21321312" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fairseq-gec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识图谱项目" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识图谱项目/21321312.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build_graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fairseq-gec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph/build_graph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,28 +424,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train2byZhang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fairseq-gec" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/元学习/MetaOptNet-master" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhang.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="train2byZhangcpu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -336,65 +446,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_tpu (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fairseq-gec" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/trainP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/trainP/train_tpu.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="train_tpu (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fairseq-gec" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train_tpu.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.train_tpu (1)" />
-      <item itemvalue="Python.train_tpu (2)" />
-      <item itemvalue="Python.train2byZhang" />
-      <item itemvalue="Python.mini_imagenet" />
       <item itemvalue="Python.train2byZhangcpu" />
+      <item itemvalue="Python.build_graph" />
+      <item itemvalue="Python.21321312" />
+      <item itemvalue="Python.1111111" />
+      <item itemvalue="Python.213213" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.213213" />
+        <item itemvalue="Python.1111111" />
+        <item itemvalue="Python.21321312" />
+        <item itemvalue="Python.build_graph" />
         <item itemvalue="Python.train2byZhangcpu" />
-        <item itemvalue="Python.train2byZhang" />
-        <item itemvalue="Python.mini_imagenet" />
-        <item itemvalue="Python.train_tpu (2)" />
-        <item itemvalue="Python.train_tpu (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -494,7 +560,9 @@
       <workItem from="1596209111872" duration="38134000" />
       <workItem from="1596380503186" duration="34031000" />
       <workItem from="1596505463680" duration="22333000" />
-      <workItem from="1596693413134" duration="15617000" />
+      <workItem from="1596693413134" duration="21885000" />
+      <workItem from="1596795407007" duration="7638000" />
+      <workItem from="1596807776669" duration="17420000" />
     </task>
     <servers />
   </component>
@@ -509,10 +577,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="358" y="0" key="#111/0.0.1280.680@0.0.1280.680" timestamp="1595955910563" />
-    <state x="17" y="5" key="#Deployment" timestamp="1596765405542">
+    <state x="17" y="5" key="#Deployment" timestamp="1596805937365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="17" y="5" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1596765405542" />
+    <state x="17" y="5" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1596805937365" />
     <state x="414" y="66" width="584" height="504" key="#Docker" timestamp="1592288438230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -525,18 +593,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="610" y="44" key="#Docker3/0.0.1280.680@0.0.1280.680" timestamp="1592288737688" />
-    <state x="233" y="3" key="#Options" timestamp="1596508224651">
+    <state x="233" y="3" key="#Options" timestamp="1596805959547">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="3" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1596508224651" />
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596328398218">
+    <state x="233" y="3" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1596805959547" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596803193229">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596328398218" />
-    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596519614353">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596803193229" />
+    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596791580575">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596519614353" />
+    <state x="355" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1596791580575" />
     <state x="358" y="0" key="#pytorch_generation" timestamp="1596246409681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -557,10 +625,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596430478936" />
-    <state width="1060" height="459" key="DebuggerActiveHint" timestamp="1596507149880">
+    <state width="1060" height="459" key="DebuggerActiveHint" timestamp="1596928672842">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1060" height="459" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1596507149880" />
+    <state width="1060" height="459" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1596928672842" />
     <state x="130" y="77" width="1095" height="495" key="DiffContextDialog" timestamp="1594771408420">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -573,42 +641,42 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1596785891007">
+    <state width="1237" height="240" key="GridCell.Tab.0.bottom" timestamp="1596928712331">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="2" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596785891007" />
-    <state width="1237" height="2" key="GridCell.Tab.0.center" timestamp="1596785891007">
+    <state width="1237" height="240" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596928712331" />
+    <state width="1237" height="240" key="GridCell.Tab.0.center" timestamp="1596928712331">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="2" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596785891007" />
-    <state width="1237" height="2" key="GridCell.Tab.0.left" timestamp="1596785891007">
+    <state width="1237" height="240" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596928712331" />
+    <state width="1237" height="240" key="GridCell.Tab.0.left" timestamp="1596928712331">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="2" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596785891007" />
-    <state width="1237" height="2" key="GridCell.Tab.0.right" timestamp="1596785891007">
+    <state width="1237" height="240" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596928712331" />
+    <state width="1237" height="240" key="GridCell.Tab.0.right" timestamp="1596928712331">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="2" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596785891007" />
-    <state width="1237" height="183" key="GridCell.Tab.1.bottom" timestamp="1596555401130">
+    <state width="1237" height="240" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596928712331" />
+    <state width="1237" height="240" key="GridCell.Tab.1.bottom" timestamp="1596928718093">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596555401130" />
-    <state width="1237" height="183" key="GridCell.Tab.1.center" timestamp="1596555401129">
+    <state width="1237" height="240" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596928718093" />
+    <state width="1237" height="240" key="GridCell.Tab.1.center" timestamp="1596928718093">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596555401129" />
-    <state width="1237" height="183" key="GridCell.Tab.1.left" timestamp="1596555401129">
+    <state width="1237" height="240" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596928718093" />
+    <state width="1237" height="240" key="GridCell.Tab.1.left" timestamp="1596928718092">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596555401129" />
-    <state width="1237" height="183" key="GridCell.Tab.1.right" timestamp="1596555401130">
+    <state width="1237" height="240" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596928718092" />
+    <state width="1237" height="240" key="GridCell.Tab.1.right" timestamp="1596928718093">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="183" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596555401130" />
-    <state x="127" y="0" key="SettingsEditor" timestamp="1596555301956">
+    <state width="1237" height="240" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596928718093" />
+    <state x="127" y="0" key="SettingsEditor" timestamp="1596805750862">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="127" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596555301956" />
+    <state x="127" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596805750862" />
     <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1596507617708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -617,10 +685,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1596511019914" />
-    <state x="332" y="95" width="824" height="490" key="find.popup" timestamp="1596363705801">
+    <state x="332" y="95" width="824" height="490" key="find.popup" timestamp="1596794471792">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="332" y="95" width="824" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1596363705801" />
+    <state x="332" y="95" width="824" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1596794471792" />
     <state x="1039" y="95" key="ftp.server.browser" timestamp="1596014081714">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -629,10 +697,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="505" y="246" key="publish.login/0.0.1280.680@0.0.1280.680" timestamp="1596246278550" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1596357028192">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1596813863455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1596357028192" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1596813863455" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1333,9 +1401,19 @@
           <option name="timeStamp" value="385" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/元学习/MetaOptNet-master/train2byZhangcpu.py</url>
-          <line>108</line>
-          <option name="timeStamp" value="386" />
+          <url>file://$PROJECT_DIR$/1111111.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/句法依存分析/222222222222/213213.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/句法依存分析/222222222222/213213.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="397" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1378,12 +1456,14 @@
         <watch expression="len(last)&gt;=10 and tmp" />
         <watch expression="last&gt;=avg1*1.03" />
         <watch expression="news_config" />
+        <watch expression="postags" />
+        <watch expression="arc" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fairseq_gec$2132321.coverage" NAME="2132321 Coverage Results" MODIFIED="1594682810561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本生成/MASS/MASS-summarization" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$1111111.coverage" NAME="1111111 Coverage Results" MODIFIED="1592953019525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$1111111.coverage" NAME="1111111 Coverage Results" MODIFIED="1596805990503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$selium__1_.coverage" NAME="成功selium (1) Coverage Results" MODIFIED="1592960179243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$tokenization_ctrl.coverage" NAME="tokenization_ctrl经典的bpe算法教学版 Coverage Results" MODIFIED="1596189975164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
     <SUITE FILE_PATH="coverage/fairseq_gec$Unittests_for_66666666_TestClass_test_case2.coverage" NAME="Unittests for 66666666.TestClass.test_case2 Coverage Results" MODIFIED="1592956791878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1402,6 +1482,7 @@
     <SUITE FILE_PATH="coverage/nlp$kkk.coverage" NAME="kkk Coverage Results" MODIFIED="1595514152420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer-project_byFengge/attention-is-all-you-need-pytorch-master88888888latest" />
     <SUITE FILE_PATH="coverage/fairseq_gec$mini_imagenet.coverage" NAME="mini_imagenet Coverage Results" MODIFIED="1596765442392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元学习/MetaOptNet-master/data" />
     <SUITE FILE_PATH="coverage/fairseq_gec$main.coverage" NAME="main Coverage Results" MODIFIED="1592970868219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$21321312.coverage" NAME="21321312 Coverage Results" MODIFIED="1596799174869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱项目" />
     <SUITE FILE_PATH="coverage/nlp$train_finetune_latest3.coverage" NAME="train_finetune_latest3 Coverage Results" MODIFIED="1595302055470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master2" />
     <SUITE FILE_PATH="coverage/fairseq_gec$222222222222222.coverage" NAME="222222222222222 Coverage Results" MODIFIED="1596440972399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset" />
     <SUITE FILE_PATH="coverage/fairseq_gec$c__1_.coverage" NAME="c (1) Coverage Results" MODIFIED="1593220069190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888/889" />
@@ -1415,6 +1496,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$432423.coverage" NAME="432423 Coverage Results" MODIFIED="1593180292402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888" />
     <SUITE FILE_PATH="coverage/nlp$train.coverage" NAME="train Coverage Results" MODIFIED="1595730551033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer666/latest-fixed_by_vocab" />
     <SUITE FILE_PATH="coverage/fairseq_gec$generate.coverage" NAME="generate Coverage Results" MODIFIED="1594774655133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本生成/GPT2-Chinese-master" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$213213.coverage" NAME="213213 Coverage Results" MODIFIED="1596928712231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句法依存分析/222222222222" />
     <SUITE FILE_PATH="coverage/fairseq_gec$44444444.coverage" NAME="44444444 Coverage Results" MODIFIED="1593181138787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888" />
     <SUITE FILE_PATH="coverage/fairseq_gec$test3333.coverage" NAME="test3333 Coverage Results" MODIFIED="1593419526583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/nlp$213123.coverage" NAME="213123 Coverage Results" MODIFIED="1595225852784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句子分割算法" />
@@ -1481,6 +1563,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$eval_lm.coverage" NAME="eval_lm Coverage Results" MODIFIED="1594801149907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-456540730/1397887433/fairseq_cli" />
     <SUITE FILE_PATH="coverage/nlp$preprocess__1_.coverage" NAME="preprocess (1) Coverage Results" MODIFIED="1595727970690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer-project_byFengge/latest-fixed_by_vocab" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_tpu.coverage" NAME="train_tpu Coverage Results" MODIFIED="1596535260711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$build_graph.coverage" NAME="build_graph Coverage Results" MODIFIED="1596792048131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱项目/QASystemOnMedicalGraph" />
     <SUITE FILE_PATH="coverage/fairseq_gec$1.coverage" NAME="1 Coverage Results" MODIFIED="1595039175184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples都是非常重要的例子/bart" />
     <SUITE FILE_PATH="coverage/fairseq_gec$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1595118406055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/一些可以直接调用的nlp算法/bart" />
     <SUITE FILE_PATH="coverage/fairseq_gec$888888888889999999999.coverage" NAME="888888888889999999999 Coverage Results" MODIFIED="1593182883586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888" />

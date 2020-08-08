@@ -140,6 +140,9 @@ if __name__ == '__main__':
     opt = parser.parse_args()
 
 
+
+
+
     # opt.train-shot=-1
     #
 
@@ -210,12 +213,12 @@ if __name__ == '__main__':
         epoch_learning_rate = 0.1
         for param_group in optimizer.param_groups:
             epoch_learning_rate = param_group['lr']
-            
+
         log(log_file_path, 'Train Epoch: {}\tLearning Rate: {:.4f}'.format(
-                            epoch, epoch_learning_rate))
-        
+            epoch, epoch_learning_rate))
+
         _, _ = [x.train() for x in (embedding_net, cls_head)]
-        
+        # pytorch  的网络有2中模式, 一种是train 一种是eval.
         train_accuracies = []
         train_losses = []
 
@@ -230,7 +233,7 @@ if __name__ == '__main__':
             
             emb_query = embedding_net(data_query.reshape([-1] + list(data_query.shape[-3:])))
             emb_query = emb_query.reshape(opt.episodes_per_batch, train_n_query, -1)
-            
+#-----------------下行是训练的的核心代码**************************************************
             logit_query = cls_head(emb_query, emb_support, labels_support, opt.train_way, opt.train_shot)
 
             smoothed_one_hot = one_hot(labels_query.reshape(-1), opt.train_way)

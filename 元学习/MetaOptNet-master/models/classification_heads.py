@@ -394,7 +394,22 @@ def MetaOptNetHead_SVM_CS(query, support, support_labels, n_way, n_shot, C_reg=0
     #                 subject to Cz <= h
     # We use detach() to prevent backpropagation to fixed variables.
     qp_sol = QPFunction(verbose=False, maxIter=maxIter)(G, e.detach(), C.detach(), h.detach(), A.detach(), b.detach())
-
+# ------------base learner训练完毕.
+    '''
+    
+    用query来提供loss.   loss修正resnet-----resnet修正svm(也用train修正)
+    
+    loss也使用了svm.    query和train都是从resnet embed出来的.
+    特色是:少用了train来提供loss----泛化强.
+    
+    
+    
+    这样写方便,但是收敛速度比你那个慢.
+    
+    学一遍.train一遍. 优势在哪?
+    
+    
+    '''
     # Compute the classification score.
     compatibility = computeGramMatrix(support, query)
     compatibility = compatibility.float()

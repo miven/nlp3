@@ -2,9 +2,11 @@ docker run -ti --user root -p 10022:22 e95a24a0d95e  /bin/bash
 
 
 
+
 /usr/sbin/sshd -D &
 
-
+docker挂载本地磁盘:
+docker run -ti --user root -v E:/444:/tmp  437294e184df  /bin/bash
 
 # 日后开发流程规范:
 
