@@ -8,6 +8,16 @@ https://www.jianshu.com/p/867478f0e674         接口说明.
 
 # -*- coding: utf-8 -*-
 import os
+text='姚明的老婆的丈夫的老婆'
+text='中国的首都的名字叫什么'
+
+
+
+
+
+
+
+
 
 ## 加载模型文件
 LTP_DATA_DIR = '/ltp_data_v3.4.0'  # ltp模型目录的路径
@@ -39,7 +49,7 @@ segmentor.load_with_lexicon(cws_model_path,'dict1.txt')  # 加载模型
 from pyltp import Parser
 parser = Parser() # 初始化实例
 parser.load(par_model_path)  # 加载模型
-words = list(segmentor.segment('欧几里得是西元前三世纪的希腊数学家.')) # 分词
+words = list(segmentor.segment(text)) # 分词
 
 ## 词性标注
 from pyltp import Postagger
@@ -109,7 +119,100 @@ dbl:2个动词.
 
 '''
 
+'''
+下面我们找到入口: kg的入口, 就是ner识别即可
+'''
+
+
+ner_model_path = os.path.join(LTP_DATA_DIR, 'ner.model')  # 命名实体识别模型路径，模型名称为`ner.model`
+
+from pyltp import NamedEntityRecognizer
+recognizer = NamedEntityRecognizer() # 初始化实例
+recognizer.load(ner_model_path)  # 加载模型
+
+
+nertags = recognizer.recognize(words, postags)  # 命名实体识别
+
+print (' '.join(nertags))
+recognizer.release()  # 释放模型
+
+'''
+结果:  S-Nh O O O O O O
+
+：人名（Nh），地名（NS），机构名（Ni）
+'''
 
 
 
 
+
+
+'''
+张博:
+再配上ner就行了
+
+张博:
+ATT(姚明, 老婆)
+RAD(的, 姚明)
+ATT(老婆, 丈夫)
+RAD(的, 老婆)
+ATT(丈夫, 老婆)
+RAD(的, 丈夫)
+HED(老婆, Root)
+S-Nh O O O O O O
+
+张博:
+第一个S-Nh 表示noune-human 人名
+
+张博:
+o表示非实体
+
+张博:
+所以从第一个词姚明开始去图谱里面搜索就行了
+
+张博:
+搭起来也容易
+
+张博:
+用1.4亿开源的中文kg资料即可
+
+'''
+
+
+
+
+
+'''
+张博:
+['涅槃[佛教用语]', '描述', '涅槃，一切变现不为烦恼，皆合涅槃清净妙德。']
+['涅槃[佛教用语]', '中文名', '涅槃']
+['涅槃[佛教用语]', '外文名', 'nirvana']
+['涅槃[佛教用语]', '文字', '梵文、藏文、中文、日文、英文等']
+['涅槃[佛教用语]', '宗教', '佛教']
+['涅槃[佛教用语]', '世界', '西方极乐世界']
+['涅槃[佛教用语]', '修行方式', '戒定慧三无漏学']
+['涅槃[佛教用语]', '语言', '多国语言']
+['涅槃[佛教用语]', '地方语言', '闽南语、台湾话、日语']
+['涅槃[佛教用语]', '身份', '四生的慈母、慈父']
+['涅槃[佛教用语]', '标签', '佛教']
+
+张博:
+我又想到一个
+
+张博:
+比如这个是涅槃的所有属性
+
+张博:
+如果客户要的东西在这里面表述方式不一样,我们就根据词向量,找一个最相似的返回.
+
+张博:
+这个词向量可以用bert来给
+
+'''
+
+
+
+'''
+以上的方案是在知识图谱已经存入数据库Neo4j里面之后的操作.
+后续可以讨论知识图谱如何用3元以上的方法,  比如5元组,来更精细刻画,和知识图谱里面的知识如何扩充的问题.
+'''
