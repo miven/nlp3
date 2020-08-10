@@ -406,7 +406,7 @@ def MetaOptNetHead_SVM_CS(query, support, support_labels, n_way, n_shot, C_reg=0
     
     这样写方便,但是收敛速度比你那个慢.
     
-    学一遍.train一遍. 优势在哪?
+    学一遍.train一遍. 优势在哪?   元在哪里. 内层svm: support 64,    外层:few shot  20       support     
     
     
     '''

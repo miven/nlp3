@@ -8,6 +8,18 @@
 本仓库,项目汇总说明:
 
 
+人脸/facenet-pytorch/examples
+
+是人脸识别项目包含识别,检测,和训练代码.
+
+
+
+
+
+
+
+
+
 
 22222222/gector-master2/train_finetune_latest3.py
  
