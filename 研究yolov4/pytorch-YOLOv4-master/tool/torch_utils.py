@@ -90,7 +90,7 @@ def do_detect(model, img, conf_thresh, nms_thresh, use_cuda=1):
     img = torch.autograd.Variable(img)
     
     t1 = time.time()
-
+# 下行是核心推断.
     output = model(img)
 
     t2 = time.time()

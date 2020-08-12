@@ -2,112 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/人脸/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/codecov.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/multiface.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/multiface_detected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/onet.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/pnet.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/rnet.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images/angelina_jolie/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images/bradley_cooper/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images/kate_siegel/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images/paul_rudd/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images/shea_whigham/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images_aligned/angelina_jolie/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images_aligned/bradley_cooper/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images_aligned/kate_siegel/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images_aligned/paul_rudd/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/data/test_images_aligned/shea_whigham/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/face_tracking.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/finetune.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/infer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/mtcnn_infer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/performance-comparison.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/predictfacenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/tracked.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/train_facenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/video.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/examples/video_tracked.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/models/inception_resnet_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/models/mtcnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/models/utils/detect_face.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/models/utils/download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/models/utils/tensorflow2pytorch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/models/utils/training.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/tests/perf_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/tests/travis_requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/人脸/facenet-pytorch/tests/travis_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/config_infer_primary_yoloV4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/deepstream_app_config_yoloV4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/labels.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/kernels.cu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/nvdsinfer_yolo_engine.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/nvdsparsebbox_Yolo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/trt_utils.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/trt_utils.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/yolo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/yolo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/yoloPlugins.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/DeepStream/nvdsinfer_custom_impl_Yolo/yoloPlugins.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/Use_yolov4_to_train_your_own_data.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/cfg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/cfg/yolov3-tiny.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/cfg/yolov3.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/cfg/yolov4-custom.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/cfg/yolov4-tiny.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/cfg/yolov4.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/data/coco.names" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/data/voc.names" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo_darknet2onnx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo_pytorch2onnx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo_tensorflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo_trt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/evaluate_on_coco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/camera.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/coco_annotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/darknet2onnx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/darknet2pytorch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/onnx2tensorflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/region_loss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/torch_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/tv_reference/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/tv_reference/coco_eval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/tv_reference/coco_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/tv_reference/engine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/tv_reference/group_by_aspect_ratio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/tv_reference/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/tv_reference/transforms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/tv_reference/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/utils_iou.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/utils_iou_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/yolo_layer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/下载google盘/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/下载google盘/download_gdrive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/predict_my.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/classification_heads.py" beforeDir="false" afterPath="$PROJECT_DIR$/元学习/MetaOptNet-master/models/classification_heads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme日常开发规范" beforeDir="false" afterPath="$PROJECT_DIR$/readme日常开发规范" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo_darknet2onnx.py" beforeDir="false" afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo_darknet2onnx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/torch_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/torch_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/yolo_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool/yolo_layer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,29 +69,29 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/研究yolov4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/下载google盘" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/文本生成/GPT2-Chinese-master/tokenizations/tokenization_bert_word_level.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\下载google盘" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\研究yolov4\pytorch-YOLOv4-master" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\研究yolov4" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\人脸" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\句法依存分析\句子分析" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\知识图谱项目" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\知识图谱项目\setUpKG" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\知识图谱项目" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\ctrl模型\ctrl原始代码\ctrl\training_utils" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\文本生成\huggingface重要例子" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\文本生成" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\8989\888888888888888\889" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train_facenet">
-    <configuration name="1point4亿的kg读取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.train">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/句法依存分析/句子分析" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/句法依存分析/句子分析/1point4亿的kg读取.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="213213成熟的一套kg解决qa的方案 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="download_gdrive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/句法依存分析/句子分析" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/下载google盘" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/句法依存分析/句子分析/213213成熟的一套kg解决qa的方案.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/下载google盘/download_gdrive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mtcnn_infer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人脸/facenet-pytorch/examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人脸/facenet-pytorch/examples/mtcnn_infer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/models.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="predictfacenet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="predict_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,12 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人脸/facenet-pytorch/examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人脸/facenet-pytorch/examples/predictfacenet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/predict_my.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="train_facenet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -301,12 +209,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/人脸/facenet-pytorch/examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/人脸/facenet-pytorch/examples/train_facenet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,19 +225,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.213213成熟的一套kg解决qa的方案 (1)" />
-      <item itemvalue="Python.1point4亿的kg读取" />
-      <item itemvalue="Python.mtcnn_infer" />
-      <item itemvalue="Python.predictfacenet" />
-      <item itemvalue="Python.train_facenet" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.models" />
+      <item itemvalue="Python.predict_my" />
+      <item itemvalue="Python.download_gdrive" />
+      <item itemvalue="Python.train" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.train_facenet" />
-        <item itemvalue="Python.predictfacenet" />
-        <item itemvalue="Python.mtcnn_infer" />
-        <item itemvalue="Python.1point4亿的kg读取" />
-        <item itemvalue="Python.213213成熟的一套kg解决qa的方案 (1)" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.predict_my" />
+        <item itemvalue="Python.download_gdrive" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +341,7 @@
       <workItem from="1596795407007" duration="7638000" />
       <workItem from="1596807776669" duration="23192000" />
       <workItem from="1596944206141" duration="933000" />
-      <workItem from="1596967310213" duration="12306000" />
+      <workItem from="1596967310213" duration="35902000" />
     </task>
     <servers />
   </component>
@@ -448,10 +356,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="358" y="0" key="#111/0.0.1280.680@0.0.1280.680" timestamp="1595955910563" />
-    <state x="17" y="5" key="#Deployment" timestamp="1596805937365">
+    <state x="17" y="5" key="#Deployment" timestamp="1597047186983">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="17" y="5" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1596805937365" />
+    <state x="17" y="5" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1597047186983" />
     <state x="414" y="66" width="584" height="504" key="#Docker" timestamp="1592288438230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -464,10 +372,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="610" y="44" key="#Docker3/0.0.1280.680@0.0.1280.680" timestamp="1592288737688" />
-    <state x="233" y="3" key="#Options" timestamp="1596805959547">
+    <state x="233" y="3" key="#Options" timestamp="1597047051439">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="3" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1596805959547" />
+    <state x="233" y="3" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1597047051439" />
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596803193229">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -496,10 +404,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="258" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1596430478936" />
-    <state width="1147" height="459" key="DebuggerActiveHint" timestamp="1596980905456">
+    <state width="1147" height="459" key="DebuggerActiveHint" timestamp="1597048467287">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1147" height="459" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1596980905456" />
+    <state width="1147" height="459" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1597048467287" />
     <state x="130" y="77" width="1095" height="495" key="DiffContextDialog" timestamp="1594771408420">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -512,54 +420,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="190" key="GridCell.Tab.0.bottom" timestamp="1597022880729">
+    <state width="1237" height="107" key="GridCell.Tab.0.bottom" timestamp="1597138413820">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597022880729" />
-    <state width="1237" height="190" key="GridCell.Tab.0.center" timestamp="1597022880729">
+    <state width="1237" height="107" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597138413820" />
+    <state width="1237" height="107" key="GridCell.Tab.0.center" timestamp="1597138413820">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597022880729" />
-    <state width="1237" height="190" key="GridCell.Tab.0.left" timestamp="1597022880729">
+    <state width="1237" height="107" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597138413820" />
+    <state width="1237" height="107" key="GridCell.Tab.0.left" timestamp="1597138413820">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597022880729" />
-    <state width="1237" height="190" key="GridCell.Tab.0.right" timestamp="1597022880729">
+    <state width="1237" height="107" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597138413820" />
+    <state width="1237" height="107" key="GridCell.Tab.0.right" timestamp="1597138413820">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597022880729" />
-    <state width="1237" height="190" key="GridCell.Tab.1.bottom" timestamp="1597022880730">
+    <state width="1237" height="107" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597138413820" />
+    <state width="1237" height="107" key="GridCell.Tab.1.bottom" timestamp="1597138406390">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597022880730" />
-    <state width="1237" height="190" key="GridCell.Tab.1.center" timestamp="1597022880730">
+    <state width="1237" height="107" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597138406390" />
+    <state width="1237" height="107" key="GridCell.Tab.1.center" timestamp="1597138406390">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597022880730" />
-    <state width="1237" height="190" key="GridCell.Tab.1.left" timestamp="1597022880730">
+    <state width="1237" height="107" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597138406390" />
+    <state width="1237" height="107" key="GridCell.Tab.1.left" timestamp="1597138406390">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597022880730" />
-    <state width="1237" height="190" key="GridCell.Tab.1.right" timestamp="1597022880730">
+    <state width="1237" height="107" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597138406390" />
+    <state width="1237" height="107" key="GridCell.Tab.1.right" timestamp="1597138406390">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="190" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597022880730" />
-    <state x="127" y="0" key="SettingsEditor" timestamp="1596805750862">
+    <state width="1237" height="107" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597138406390" />
+    <state x="127" y="0" key="SettingsEditor" timestamp="1597046113236">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="127" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1596805750862" />
-    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1596507617708">
+    <state x="127" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597046113236" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1597048523949">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1596507617708" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1597048523949" />
     <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596511019914">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="169" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1596511019914" />
-    <state x="332" y="95" width="824" height="490" key="find.popup" timestamp="1597021818929">
+    <state x="99" y="16" width="1157" height="570" key="find.popup" timestamp="1597051020900">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="332" y="95" width="824" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1597021818929" />
+    <state x="99" y="16" width="1157" height="570" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1597051020900" />
     <state x="1039" y="95" key="ftp.server.browser" timestamp="1596014081714">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -568,10 +476,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="505" y="246" key="publish.login/0.0.1280.680@0.0.1280.680" timestamp="1596246278550" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597022823553">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1597051158415">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597022823553" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1597051158415" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1277,7 +1185,7 @@
           <option name="timeStamp" value="394" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/句法依存分析/句子分析/213213成熟的一套kg解决qa的方案.py</url>
+          <url>file://$PROJECT_DIR$/知识图谱项目/句法依存分析/句子分析/213213成熟的一套kg解决qa的方案.py</url>
           <line>50</line>
           <option name="timeStamp" value="399" />
         </line-breakpoint>
@@ -1300,6 +1208,16 @@
           <url>file://$PROJECT_DIR$/人脸/facenet-pytorch/examples/train_facenet.py</url>
           <line>23</line>
           <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/predict_my.py</url>
+          <line>456</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/train.py</url>
+          <line>606</line>
+          <option name="timeStamp" value="412" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1349,6 +1267,14 @@
         <watch expression="embeddings" />
         <watch expression="MTCNN" />
         <watch expression="self.classify" />
+        <watch expression="pretrained_dict" />
+        <watch expression="image_src" />
+        <watch expression="bboxes_batch" />
+        <watch expression="boxes" />
+        <watch expression="inference" />
+        <watch expression="m * self.anchor_step:(m + 1) * self.anchor_step" />
+        <watch expression="m * self.anchor_step" />
+        <watch expression="(m + 1) * self.anchor_step" />
       </configuration>
     </watches-manager>
   </component>
@@ -1386,6 +1312,7 @@
     <SUITE FILE_PATH="coverage/nlp$11111111111.coverage" NAME="11111111111 Coverage Results" MODIFIED="1595510253571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils_for_bert翻译峰哥" />
     <SUITE FILE_PATH="coverage/fairseq_gec$loading_all_dict.coverage" NAME="loading_all_dict Coverage Results" MODIFIED="1594033338935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master/utils2/errorify" />
     <SUITE FILE_PATH="coverage/fairseq_gec$432423.coverage" NAME="432423 Coverage Results" MODIFIED="1593180292402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$models.coverage" NAME="models Coverage Results" MODIFIED="1597049794040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master" />
     <SUITE FILE_PATH="coverage/nlp$train.coverage" NAME="train Coverage Results" MODIFIED="1595730551033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer666/latest-fixed_by_vocab" />
     <SUITE FILE_PATH="coverage/fairseq_gec$generate.coverage" NAME="generate Coverage Results" MODIFIED="1594774655133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文本生成/GPT2-Chinese-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$213213.coverage" NAME="213213 Coverage Results" MODIFIED="1596928778949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句法依存分析/222222222222" />
@@ -1393,10 +1320,10 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$test3333.coverage" NAME="test3333 Coverage Results" MODIFIED="1593419526583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/nlp$213123.coverage" NAME="213123 Coverage Results" MODIFIED="1595225852784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句子分割算法" />
     <SUITE FILE_PATH="coverage/nlp$translate.coverage" NAME="translate Coverage Results" MODIFIED="1595514756205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer-project_byFengge/attention-is-all-you-need-pytorch-master88888888latest" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$demo.coverage" NAME="demo Coverage Results" MODIFIED="1596429547249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/scripts" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$demo.coverage" NAME="demo Coverage Results" MODIFIED="1597049199234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$pytorch_generation.coverage" NAME="pytorch_generation Coverage Results" MODIFIED="1596295999178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl" />
     <SUITE FILE_PATH="coverage/fairseq_gec$676575675.coverage" NAME="676575675 Coverage Results" MODIFIED="1592958600407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$train.coverage" NAME="train Coverage Results" MODIFIED="1594888889910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PreSumm2/src" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$train.coverage" NAME="train Coverage Results" MODIFIED="1597138405602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_single3__1_.coverage" NAME="train_single3 (1) Coverage Results" MODIFIED="1596504600508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
     <SUITE FILE_PATH="coverage/nlp$1111111111111.coverage" NAME="1111111111111 Coverage Results" MODIFIED="1595818368208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/传统方法做nlg" />
     <SUITE FILE_PATH="coverage/fairseq_gec$pre_data_byOnlyOneBook.coverage" NAME="pre_data_byOnlyOneBook Coverage Results" MODIFIED="1596441074461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset" />
@@ -1417,7 +1344,9 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$pre_data.coverage" NAME="pre_data Coverage Results" MODIFIED="1596430657556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset" />
     <SUITE FILE_PATH="coverage/fairseq_gec$56565656.coverage" NAME="56565656 Coverage Results" MODIFIED="1596378182552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nlp$.coverage" NAME="迭代器读取 Coverage Results" MODIFIED="1595584730341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$download_gdrive.coverage" NAME="download_gdrive Coverage Results" MODIFIED="1597051229980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/下载google盘" />
     <SUITE FILE_PATH="coverage/fairseq_gec$mtcnn_infer.coverage" NAME="mtcnn_infer Coverage Results" MODIFIED="1596967677873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人脸/facenet-pytorch/examples" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$infer_my.coverage" NAME="infer_my Coverage Results" MODIFIED="1597048732810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master" />
     <SUITE FILE_PATH="coverage/nlp$run_generation__2__for_ctrl__1_.coverage" NAME="run_generation (2)_for_ctrl (1) Coverage Results" MODIFIED="1596163485667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/做ctrl模型" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_finetune.coverage" NAME="train_finetune Coverage Results" MODIFIED="1593411371905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master" />
     <SUITE FILE_PATH="coverage/nlp$nltk__1_.coverage" NAME="nltk句子分割算法 (1) Coverage Results" MODIFIED="1595225966266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句子分割算法" />
@@ -1441,6 +1370,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$test66666666666666666666666666.coverage" NAME="test66666666666666666666666666 Coverage Results" MODIFIED="1594873713363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MPNet-master/pretraining" />
     <SUITE FILE_PATH="coverage/fairseq_gec$11111111111111111.coverage" NAME="11111111111111111 Coverage Results" MODIFIED="1594947623040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PreSumm2/src" />
     <SUITE FILE_PATH="coverage/fairseq_gec$preprocess_data.coverage" NAME="preprocess_data Coverage Results" MODIFIED="1593352067650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master/utils" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$utils.coverage" NAME="utils Coverage Results" MODIFIED="1597048708471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool" />
     <SUITE FILE_PATH="coverage/fairseq_gec$b.coverage" NAME="b Coverage Results" MODIFIED="1593014156848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888" />
     <SUITE FILE_PATH="coverage/fairseq_gec$333333333333.coverage" NAME="333333333333 Coverage Results" MODIFIED="1592282921503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$error.coverage" NAME="error Coverage Results" MODIFIED="1592446924160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/333/PIE-master/errorify" />
@@ -1485,5 +1415,6 @@
     <SUITE FILE_PATH="coverage/nlp$pytorch_generation.coverage" NAME="pytorch_generation Coverage Results" MODIFIED="1596202766682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ctrl模型/ctrl原始代码/ctrl" />
     <SUITE FILE_PATH="coverage/fairseq_gec$22222222222.coverage" NAME="22222222222 Coverage Results" MODIFIED="1592958178606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$generateByme.coverage" NAME="generateByme Coverage Results" MODIFIED="1596533106763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$predict_my.coverage" NAME="predict_my Coverage Results" MODIFIED="1597068060282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master" />
   </component>
 </project>

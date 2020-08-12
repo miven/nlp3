@@ -3,7 +3,11 @@ from torch import nn
 import torch.nn.functional as F
 from tool.torch_utils import *
 from tool.yolo_layer import YoloLayer
-
+'''
+权重需要下载
+yolov4.pth(https://drive.google.com/open?id=1wv_LiFeCRYwtpkqREPeI13-gPELBDwuJ)
+要下载这个!别下载下面的conv.137那个,那个没用!!!!!!!!!!!!!!
+'''
 
 class Mish(torch.nn.Module):
     def __init__(self):
@@ -228,7 +232,7 @@ class DownSample5(nn.Module):
         r = self.resblock(x3)
         x4 = self.conv4(r)
 
-        x4 = torch.cat([x4, x2], dim=1)
+        x4 = torch.cat([x4, x2], dim=1)  # spn层.
         x5 = self.conv5(x4)
         return x5
 
@@ -391,7 +395,7 @@ class Yolov4Head(nn.Module):
         x16 = self.conv16(x15)
         x17 = self.conv17(x16)
         x18 = self.conv18(x17)
-        
+        # 下面是核心推断层. 跟train无关的.
         if self.inference:
             y1 = self.yolo1(x2)
             y2 = self.yolo2(x10)
@@ -418,7 +422,7 @@ class Yolov4(nn.Module):
         # neck
         self.neek = Neck(inference)
         # yolov4conv137
-        if yolov4conv137weight:
+        if yolov4conv137weight: # 所以不要下载这个con137网络,这个网络没有head没法跑代码.
             _model = nn.Sequential(self.down1, self.down2, self.down3, self.down4, self.down5, self.neek)
             pretrained_dict = torch.load(yolov4conv137weight)
 
@@ -454,7 +458,7 @@ if __name__ == "__main__":
     namesfile = None
     if 1:
         n_classes = 80
-        weightfile = '/home/user/yolov4.conv.137.pth'
+        weightfile = '/opt/yolov4.pth'
         imgfile = 'data/dog.jpg'
         height = 416
         width = 416
@@ -493,7 +497,7 @@ if __name__ == "__main__":
 
     for i in range(2):  # This 'for' loop is for speed check
                         # Because the first iteration is usually longer
-        boxes = do_detect(model, sized, 0.5, 0.3, use_cuda)
+        boxes = do_detect(model, sized, 0.4, 0.5, use_cuda)
 
     if namesfile == None:
         if n_classes == 20:

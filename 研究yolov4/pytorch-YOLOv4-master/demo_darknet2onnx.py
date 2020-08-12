@@ -55,7 +55,7 @@ def detect(session, image_src):
 
     class_names = load_class_names(namesfile)
     plot_boxes_cv2(image_src, boxes[0], savename='predictions_onnx.jpg', class_names=class_names)
-
+# 这里面只画概率最大的那个.
 
 
 if __name__ == '__main__':
