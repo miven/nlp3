@@ -9,7 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/知识图谱项目/QASystemOnMedicalGraph" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/研究yolov4/pytorch-YOLOv4-master" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Remote Python 3.6.10 (sftp://user@39.97.233.131:16000/home/user/anaconda3/envs/pytorch1.12/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
