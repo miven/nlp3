@@ -78,6 +78,14 @@ gpt2做中文nlg/GPT2-Chinese-master修改为mega版本/README.md
 
 
 
+python加速算法:
+
+量化/main
+
+
+
+
+
 
 
 
