@@ -2,96 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/.hgignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/.hgtags" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/Makefile.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/README.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/configure" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/doc/guide.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/doc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/doc/install.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/examples/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/examples/test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/examples/test2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/kdtree.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/kdtree.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/bgzf.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/bgzf.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/cpp/kavl.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/cpp/khash.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/cpp/khashl.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kalloc.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kalloc.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kavl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kbit.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kbtree.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kdq.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/keigen.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/keigen.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ketopt.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kexpr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kexpr.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kgraph.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/khash.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/khashl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/khmm.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/khmm.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/klist.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kmath.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kmath.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/knetfile.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/knetfile.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/knhx.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/knhx.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kopen.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/krmq.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/krng.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ksa.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kseq.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kson.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kson.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ksort.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kstring.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kstring.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ksw.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ksw.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kthread.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kthread.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kurl.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kurl.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kvec.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/lua/bio.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/lua/klib.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kavl_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kbit_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kbtree_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/ketopt_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kgraph_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/khash_keith.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/khash_keith2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/khash_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/klist_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kmin_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/krmq_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kseq_bench.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kseq_bench2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kseq_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kseq_test.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/ksort_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/ksort_test.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kstring_bench.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kstring_bench2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kstring_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kthread_test.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kthread_test2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kvec_test.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/检测电脑端口是否打开.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/量化/main/1321312.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -419,7 +329,7 @@
       <workItem from="1596807776669" duration="23192000" />
       <workItem from="1596944206141" duration="933000" />
       <workItem from="1596967310213" duration="44948000" />
-      <workItem from="1597212409690" duration="44196000" />
+      <workItem from="1597212409690" duration="45909000" />
     </task>
     <servers />
   </component>
