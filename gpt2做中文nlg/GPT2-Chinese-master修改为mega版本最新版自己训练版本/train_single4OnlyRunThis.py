@@ -41,7 +41,7 @@ https://spaces.ac.cn/archives/7292
 https://colab.research.google.com/github/imcaspar/gpt2-ml/blob/master/pretrained_model_demo.ipynb
 
 
-https://github.com/imcaspar/gpt2-ml
+https://github.com/imcaspar/gpt2-ml 
 '''
 
 
