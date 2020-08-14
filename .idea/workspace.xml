@@ -2,79 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/data/cora/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/data/cora/cora.cites" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/data/cora/cora.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/layers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/output/graph_visualize.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gat网络/pyGAT-master/visualize_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lianghua/1111111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lianghua/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lianghua/hello.pyx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lianghua/helloworld.pyx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lianghua/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/区块链/11111111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/区块链/23213.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/区块链/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/2312312.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习一些c代码/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/量化/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/量化/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/量化/main/hello.pyx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/量化/main/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/量化/main/使用cython加速.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/量化/main/使用cython来进行ma算法究极加速.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/量化/main/学学量化的文档如何加速.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/.hgignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/.hgtags" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/Makefile.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/configure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/doc/guide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/doc/install.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/examples/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/examples/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/examples/test2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/kdtree.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/kdtree-master/kdtree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/bgzf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/bgzf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/cpp/kavl.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/cpp/khash.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/cpp/khashl.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kalloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kalloc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kavl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kbit.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kbtree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kdq.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/keigen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/keigen.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ketopt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kexpr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kexpr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kgraph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/khash.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/khashl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/khmm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/khmm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/klist.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kmath.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kmath.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/knetfile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/knetfile.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/knhx.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/knhx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kopen.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/krmq.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/krng.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ksa.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kseq.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kson.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kson.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ksort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kstring.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kstring.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ksw.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/ksw.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kthread.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kthread.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kurl.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kurl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/kvec.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/lua/bio.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/lua/klib.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kavl_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kbit_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kbtree_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/ketopt_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kgraph_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/khash_keith.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/khash_keith2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/khash_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/klist_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kmin_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/krmq_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kseq_bench.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kseq_bench2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kseq_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kseq_test.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/ksort_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/ksort_test.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kstring_bench.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kstring_bench2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kstring_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kthread_test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kthread_test2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/klib-master/test/kvec_test.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习一些c代码/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/检测电脑端口是否打开.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/量化/main/1321312.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/量化/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/.idea/Introduction-to-quantitative-trading222.iml" beforeDir="false" afterPath="$PROJECT_DIR$/量化/.idea/Introduction-to-quantitative-trading222.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/量化/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/量化/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/量化/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/量化/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/342342342.json" beforeDir="false" afterPath="$PROJECT_DIR$/量化/342342342.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/量化/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/565645645.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/dasfadsfasdf.json" beforeDir="false" afterPath="$PROJECT_DIR$/量化/dasfadsfasdf.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/21321312.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/main/21321312.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/232323.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/main/232323.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/gat网络/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/readme" beforeDir="false" afterPath="$PROJECT_DIR$/量化/main/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/作市.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/main/作市.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/作市2.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/main/作市2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/全自定义比例仓策略.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/main/全自定义比例仓策略.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/半仓策略.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/main/半仓策略.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/半仓策略优化.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/main/半仓策略优化.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/main/自定义比例仓策略.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/main/自定义比例仓策略.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/mid_class_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/mid_class_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/midclass教程-下-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/midclass教程-下-Copy1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/midclass教程-下.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/midclass教程-下.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/midclass教程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/midclass教程.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/parse_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/量化/parse_book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/做市策略入门.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/做市策略入门.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/做市策略入门（2）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/做市策略入门（2）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/做市策略入门（3）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/做市策略入门（3）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/做市策略入门（备份）.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/做市策略入门（备份）.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/写一个均仓策略- 下.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/写一个均仓策略- 下.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/写一个均仓策略.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/写一个均仓策略.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/开始写策略量化教程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/开始写策略量化教程.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/教程.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/教程.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/趋势类策略入门- 4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/趋势类策略入门- 4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/趋势类策略入门-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/趋势类策略入门-2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/趋势类策略入门-3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/趋势类策略入门-3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-量化/趋势类策略入门.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/量化/趋势类策略入门.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +146,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/量化/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/学习一些c代码" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/文本生成/GPT2-Chinese-master/tokenizations/tokenization_bert_word_level.py" />
@@ -142,15 +160,15 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\文本生成" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习一些c代码" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\量化\main" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\lianghua" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gat网络" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\生成器装饰器" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\下载google盘" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.使用cython来进行ma算法究极加速 (1)">
-    <configuration name="学学量化的文档如何加速" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.检测电脑端口是否打开">
+    <configuration name="检测电脑端口是否打开" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,12 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/量化/main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\Users\Administrator\PycharmProjects\fairseq-gec\量化\main\学学量化的文档如何加速.py" />
+      <option name="SCRIPT_NAME" value="E:\Users\Administrator\PycharmProjects\fairseq-gec\检测电脑端口是否打开.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,19 +302,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.学学量化的文档如何加速" />
       <item itemvalue="Python.1111111" />
       <item itemvalue="Python.使用cython来进行ma算法究极加速" />
       <item itemvalue="Python.hello.pyx" />
       <item itemvalue="Python.使用cython来进行ma算法究极加速 (1)" />
+      <item itemvalue="Python.检测电脑端口是否打开" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.检测电脑端口是否打开" />
         <item itemvalue="Python.使用cython来进行ma算法究极加速 (1)" />
         <item itemvalue="Python.hello.pyx" />
         <item itemvalue="Python.使用cython来进行ma算法究极加速" />
         <item itemvalue="Python.1111111" />
-        <item itemvalue="Python.学学量化的文档如何加速" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +419,7 @@
       <workItem from="1596807776669" duration="23192000" />
       <workItem from="1596944206141" duration="933000" />
       <workItem from="1596967310213" duration="44948000" />
-      <workItem from="1597212409690" duration="36919000" />
+      <workItem from="1597212409690" duration="44196000" />
     </task>
     <servers />
   </component>
@@ -480,22 +498,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="210" key="GridCell.Tab.0.bottom" timestamp="1597320477759">
+    <state width="1237" height="47" key="GridCell.Tab.0.bottom" timestamp="1597394933126">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597320477759" />
-    <state width="1237" height="210" key="GridCell.Tab.0.center" timestamp="1597320477759">
+    <state width="1237" height="47" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597394933126" />
+    <state width="1237" height="47" key="GridCell.Tab.0.center" timestamp="1597394933126">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597320477759" />
-    <state width="1237" height="210" key="GridCell.Tab.0.left" timestamp="1597320477759">
+    <state width="1237" height="47" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597394933126" />
+    <state width="1237" height="47" key="GridCell.Tab.0.left" timestamp="1597394933126">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597320477759" />
-    <state width="1237" height="210" key="GridCell.Tab.0.right" timestamp="1597320477759">
+    <state width="1237" height="47" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597394933126" />
+    <state width="1237" height="47" key="GridCell.Tab.0.right" timestamp="1597394933126">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597320477759" />
+    <state width="1237" height="47" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597394933126" />
     <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1597243126128">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1378,6 +1396,7 @@
     <SUITE FILE_PATH="coverage/nlp$train_finetune_latest3.coverage" NAME="train_finetune_latest3 Coverage Results" MODIFIED="1595302055470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master2" />
     <SUITE FILE_PATH="coverage/fairseq_gec$cythonma__1_.coverage" NAME="使用cython来进行ma算法究极加速 (1) Coverage Results" MODIFIED="1597319464551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/量化/main" />
     <SUITE FILE_PATH="coverage/fairseq_gec$222222222222222.coverage" NAME="222222222222222 Coverage Results" MODIFIED="1596440972399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-finetune--master/dataset" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$12321321.coverage" NAME="12321321 Coverage Results" MODIFIED="1597379521739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$c__1_.coverage" NAME="c (1) Coverage Results" MODIFIED="1593220069190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888/889" />
     <SUITE FILE_PATH="coverage/fairseq_gec$565645645.coverage" NAME="565645645 Coverage Results" MODIFIED="1597225162455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$a.coverage" NAME="a Coverage Results" MODIFIED="1594741930223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989谢兄pickle处理bug/888888888888888/889" />
