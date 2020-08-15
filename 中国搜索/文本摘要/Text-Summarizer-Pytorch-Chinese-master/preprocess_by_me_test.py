@@ -167,3 +167,6 @@ if __name__ == "__main__":
                     os.path.join(chunk_path, "valid", "valid_00.bin"))
     shutil.copyfile(os.path.join(chunk_path, "main_valid", test_chunk),
                     os.path.join(chunk_path, "test", "test_00.bin"))
+    '''
+    从代码中看出来,最后需要使用的数据就是test, train, valid这3个发文件及.
+    '''

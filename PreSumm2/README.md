@@ -1,12 +1,15 @@
 
-这个项目是做ext 的
 
 
 
+1.
 已经成功的跑通了.只需要运行train2.py即可.
 
+是做ext 的
 
-和train3.py
+
+2.
+和train3.py  这个是abs的
 
 
 
