@@ -1,5 +1,12 @@
 docker run -ti --user root -p 10022:22 e95a24a0d95e  /bin/bash
-docker run -ti --user root -p 10022:22 bb6f9237631c  /bin/bash
+
+
+
+
+2020-08-15,12点04  下面是最新版本的启动命令.
+
+
+docker run -ti --user root -p 10022:22 -v E:/:/mnt bb6f9237631c  /bin/bash
 
 
 

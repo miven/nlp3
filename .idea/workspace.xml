@@ -2,7 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vae算法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/input_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/results/base.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vae算法/variational-autoencoder-master/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/.github/workflows/python-app.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/beam_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/ci-test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/ci-test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/ci-test/test_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/data_util/batcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/data_util/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/data_util/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/data_util/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/data_util/logs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/eval.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/make_data_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/preprocess_by_me.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/preprocess_by_me_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/requirements-ci.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/requirements-web.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/test_web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/train.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/train_rl.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/train_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/web.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/中国搜索/文本摘要/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme日常开发规范" beforeDir="false" afterPath="$PROJECT_DIR$/readme日常开发规范" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +113,19 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/学习一些c代码" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/PreLCSTS" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/文本生成/GPT2-Chinese-master/tokenizations/tokenization_bert_word_level.py" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\中国搜索\文本摘要\Text-Summarizer-Pytorch-Chinese-master\PreLCSTS" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\中国搜索\文本摘要\Text-Summarizer-Pytorch-Chinese-master" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\中国搜索\文本摘要" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\vae算法" />
+      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习一些c代码" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\生成器装饰器" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\知识图谱项目" />
@@ -69,15 +133,8 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\文本生成\huggingface重要例子" />
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\文本生成" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\学习一些c代码" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\量化\main" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\lianghua" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\gat网络" />
-      <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\生成器装饰器" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.检测电脑端口是否打开">
+  <component name="RunManager" selected="Python.preprocess_by_me_test">
     <configuration name="检测电脑端口是否打开" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,28 +149,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="E:\Users\Administrator\PycharmProjects\fairseq-gec\检测电脑端口是否打开.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1111111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fairseq-gec" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lianghua" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianghua/1111111.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,28 +179,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="使用cython来进行ma算法究极加速" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fairseq-gec" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/量化/main" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\Users\Administrator\PycharmProjects\fairseq-gec\量化\main\使用cython来进行ma算法究极加速.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="hello.pyx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +193,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/量化/main/hello.pyx" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fairseq-gec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vae算法/variational-autoencoder-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vae算法/variational-autoencoder-master/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess_by_me_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fairseq-gec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/preprocess_by_me_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,19 +269,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.1111111" />
-      <item itemvalue="Python.使用cython来进行ma算法究极加速" />
       <item itemvalue="Python.hello.pyx" />
       <item itemvalue="Python.使用cython来进行ma算法究极加速 (1)" />
       <item itemvalue="Python.检测电脑端口是否打开" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.preprocess_by_me_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.preprocess_by_me_test" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.检测电脑端口是否打开" />
         <item itemvalue="Python.使用cython来进行ma算法究极加速 (1)" />
         <item itemvalue="Python.hello.pyx" />
-        <item itemvalue="Python.使用cython来进行ma算法究极加速" />
-        <item itemvalue="Python.1111111" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +386,8 @@
       <workItem from="1596807776669" duration="23192000" />
       <workItem from="1596944206141" duration="933000" />
       <workItem from="1596967310213" duration="44948000" />
-      <workItem from="1597212409690" duration="45909000" />
+      <workItem from="1597212409690" duration="49485000" />
+      <workItem from="1597463380895" duration="4677000" />
     </task>
     <servers />
   </component>
@@ -360,10 +418,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="610" y="44" key="#Docker3/0.0.1280.680@0.0.1280.680" timestamp="1592288737688" />
-    <state x="233" y="3" key="#Options" timestamp="1597047051439">
+    <state x="233" y="3" key="#Options" timestamp="1597463540918">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="3" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1597047051439" />
+    <state x="233" y="3" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1597463540918" />
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596803193229">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -408,38 +466,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="47" key="GridCell.Tab.0.bottom" timestamp="1597394933126">
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom" timestamp="1597472993385">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="47" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597394933126" />
-    <state width="1237" height="47" key="GridCell.Tab.0.center" timestamp="1597394933126">
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597472993385" />
+    <state width="1237" height="210" key="GridCell.Tab.0.center" timestamp="1597472993385">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="47" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597394933126" />
-    <state width="1237" height="47" key="GridCell.Tab.0.left" timestamp="1597394933126">
+    <state width="1237" height="210" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597472993385" />
+    <state width="1237" height="210" key="GridCell.Tab.0.left" timestamp="1597472993385">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="47" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597394933126" />
-    <state width="1237" height="47" key="GridCell.Tab.0.right" timestamp="1597394933126">
+    <state width="1237" height="210" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597472993385" />
+    <state width="1237" height="210" key="GridCell.Tab.0.right" timestamp="1597472993385">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="47" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597394933126" />
-    <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1597243126128">
+    <state width="1237" height="210" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597472993385" />
+    <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1597472999751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597243126128" />
-    <state width="1237" height="210" key="GridCell.Tab.1.center" timestamp="1597243126128">
+    <state width="1237" height="210" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597472999751" />
+    <state width="1237" height="210" key="GridCell.Tab.1.center" timestamp="1597472999751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597243126128" />
-    <state width="1237" height="210" key="GridCell.Tab.1.left" timestamp="1597243126128">
+    <state width="1237" height="210" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597472999751" />
+    <state width="1237" height="210" key="GridCell.Tab.1.left" timestamp="1597472999751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597243126128" />
-    <state width="1237" height="210" key="GridCell.Tab.1.right" timestamp="1597243126128">
+    <state width="1237" height="210" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597472999751" />
+    <state width="1237" height="210" key="GridCell.Tab.1.right" timestamp="1597472999751">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="210" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597243126128" />
+    <state width="1237" height="210" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597472999751" />
     <state x="127" y="0" key="SettingsEditor" timestamp="1597046113236">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1212,6 +1270,21 @@
           <line>44</line>
           <option name="timeStamp" value="413" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/vae算法/variational-autoencoder-master/input_data.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/train.py</url>
+          <line>324</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master/preprocess_by_me_test.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1275,6 +1348,12 @@
         <watch expression="edges" />
         <watch expression="adj" />
         <watch expression="(str(self.index) +&#10;                   str(self.timestamp) +&#10;                   str(self.data) +&#10;                   str(self.previous_hash)).encode(&quot;utf-8&quot;)" />
+        <watch expression="rows * cols * num_images" />
+        <watch expression="num_images" />
+        <watch expression="data" />
+        <watch expression="df[0]" />
+        <watch expression="df" />
+        <watch expression="list_of_pairs" />
       </configuration>
     </watches-manager>
   </component>
@@ -1300,7 +1379,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$213213__1_.coverage" NAME="213213 (1) Coverage Results" MODIFIED="1596930372641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/句法依存分析/句子分析" />
     <SUITE FILE_PATH="coverage/nlp$kkk.coverage" NAME="kkk Coverage Results" MODIFIED="1595514152420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer-project_byFengge/attention-is-all-you-need-pytorch-master88888888latest" />
     <SUITE FILE_PATH="coverage/fairseq_gec$mini_imagenet.coverage" NAME="mini_imagenet Coverage Results" MODIFIED="1596765442392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元学习/MetaOptNet-master/data" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$main.coverage" NAME="main Coverage Results" MODIFIED="1592970868219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$main.coverage" NAME="main Coverage Results" MODIFIED="1597449776841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vae算法/variational-autoencoder-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$21321312.coverage" NAME="21321312 Coverage Results" MODIFIED="1596799174869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱项目" />
     <SUITE FILE_PATH="coverage/fairseq_gec$23213.coverage" NAME="23213 Coverage Results" MODIFIED="1597284306814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/区块链" />
     <SUITE FILE_PATH="coverage/nlp$train_finetune_latest3.coverage" NAME="train_finetune_latest3 Coverage Results" MODIFIED="1595302055470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master2" />
@@ -1380,6 +1459,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$preprocess_data.coverage" NAME="preprocess_data Coverage Results" MODIFIED="1593352067650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22222222/gector-master/utils" />
     <SUITE FILE_PATH="coverage/fairseq_gec$utils.coverage" NAME="utils Coverage Results" MODIFIED="1597048708471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/研究yolov4/pytorch-YOLOv4-master/tool" />
     <SUITE FILE_PATH="coverage/fairseq_gec$b.coverage" NAME="b Coverage Results" MODIFIED="1593014156848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$preprocess_by_me_test.coverage" NAME="preprocess_by_me_test Coverage Results" MODIFIED="1597472993265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$333333333333.coverage" NAME="333333333333 Coverage Results" MODIFIED="1592282921503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$error.coverage" NAME="error Coverage Results" MODIFIED="1592446924160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/333/PIE-master/errorify" />
     <SUITE FILE_PATH="coverage/fairseq_gec$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1593217385930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888/889" />

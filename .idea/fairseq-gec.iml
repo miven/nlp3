@@ -8,8 +8,10 @@
       <sourceFolder url="file://$MODULE_DIR$/lua源码/lua-5.4.0/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/知识图谱项目/QASystemOnMedicalGraph" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gat网络/pyGAT-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vae算法/variational-autoencoder-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/中国搜索/文本摘要/Text-Summarizer-Pytorch-Chinese-master" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Remote Python 3.6.8 (sftp://root@127.0.0.1:10022/usr/bin/python3)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
