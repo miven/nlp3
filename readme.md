@@ -8,6 +8,17 @@
 本仓库,项目汇总说明:
 
 
+经典textrank算法做ext:
+中国搜索/TextRank4ZH-master/example/example01.py
+
+
+
+
+
+
+
+
+
 人脸/facenet-pytorch/examples
 
 是人脸识别项目包含识别,检测,和训练代码.
