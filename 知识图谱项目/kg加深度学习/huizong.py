@@ -185,6 +185,7 @@ for ner_sample in ner:
     while search_new_node():
         print("running")
     print(luxian,"bfs方法找到的路线!!!!!!!!!!!!!!!")
+    # 根据luxian 跳转即可,原则是能跳转就跳转,跳转不了就停下,直接返回当前结果.
 
 
 #--------------上面拿到路线了luxian, 在kg里面进行跳转即可.# 可以做词向量距离,来进行模糊跳转.

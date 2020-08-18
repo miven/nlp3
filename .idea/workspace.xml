@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/data_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/finetune词向量模型.py" beforeDir="false" afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/finetune词向量模型.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/huizong.py" beforeDir="false" afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/huizong.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -358,7 +354,7 @@
       <workItem from="1596967310213" duration="44948000" />
       <workItem from="1597212409690" duration="49485000" />
       <workItem from="1597463380895" duration="32199000" />
-      <workItem from="1597588597547" duration="57920000" />
+      <workItem from="1597588597547" duration="58014000" />
     </task>
     <servers />
   </component>
@@ -437,22 +433,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="256" key="GridCell.Tab.0.bottom" timestamp="1597744159551">
+    <state width="1237" height="293" key="GridCell.Tab.0.bottom" timestamp="1597744459710">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="256" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597744159551" />
-    <state width="1237" height="256" key="GridCell.Tab.0.center" timestamp="1597744159551">
+    <state width="1237" height="293" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597744459710" />
+    <state width="1237" height="293" key="GridCell.Tab.0.center" timestamp="1597744459710">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="256" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597744159551" />
-    <state width="1237" height="256" key="GridCell.Tab.0.left" timestamp="1597744159551">
+    <state width="1237" height="293" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597744459710" />
+    <state width="1237" height="293" key="GridCell.Tab.0.left" timestamp="1597744459710">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="256" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597744159551" />
-    <state width="1237" height="256" key="GridCell.Tab.0.right" timestamp="1597744159551">
+    <state width="1237" height="293" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597744459710" />
+    <state width="1237" height="293" key="GridCell.Tab.0.right" timestamp="1597744459710">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="256" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597744159551" />
+    <state width="1237" height="293" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597744459710" />
     <state width="1237" height="155" key="GridCell.Tab.1.bottom" timestamp="1597743300455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1477,7 +1473,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$pre_data_byOnlyOneBook__1_.coverage" NAME="pre_data_byOnlyOneBook (1) Coverage Results" MODIFIED="1596504555455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train2byZhangcpu.coverage" NAME="train2byZhangcpu Coverage Results" MODIFIED="1596765711715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元学习/MetaOptNet-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$11111111.coverage" NAME="11111111 Coverage Results" MODIFIED="1597301859157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/区块链" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$huizong.coverage" NAME="huizong Coverage Results" MODIFIED="1597744159545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱项目/kg加深度学习" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$huizong.coverage" NAME="huizong Coverage Results" MODIFIED="1597744436782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱项目/kg加深度学习" />
     <SUITE FILE_PATH="coverage/fairseq_gec$eval_lm.coverage" NAME="eval_lm Coverage Results" MODIFIED="1594801149907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-456540730/1397887433/fairseq_cli" />
     <SUITE FILE_PATH="coverage/nlp$preprocess__1_.coverage" NAME="preprocess (1) Coverage Results" MODIFIED="1595727970690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer-project_byFengge/latest-fixed_by_vocab" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_tpu.coverage" NAME="train_tpu Coverage Results" MODIFIED="1596535260711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train" />
