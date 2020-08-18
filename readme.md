@@ -8,6 +8,31 @@
 本仓库,项目汇总说明:
 
 
+
+albert的配置:
+
+huggingface项目中重要例子/transformers/src/transformers/configuration_albert.py
+
+
+
+
+
+
+
+
+
+
+
+所有的albert使用model,看接哪个头适合.
+C:\Users\Administrator\.PyCharm2019.3\system\remote_sources\-456540730\-337502517\transformers\modeling_albert.py
+
+
+
+
+
+
+
+
 经典textrank算法做ext:
 中国搜索/TextRank4ZH-master/example/example01.py
 
