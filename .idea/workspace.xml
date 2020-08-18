@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d624af8-c777-4086-b121-16f765477978" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/albert使用/23231321.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/albert使用/albertForVec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/albert使用/bert做词向量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bertChineseVec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bert获取中文vec/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/23232.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/ber4keras库包里面内容/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/finetune词向量模型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/huizong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/huizong修改为词向量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/data_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fairseq-gec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fairseq-gec.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/albert使用/albert加kg.py" beforeDir="false" afterPath="$PROJECT_DIR$/albert使用/albert加kg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/finetune词向量模型.py" beforeDir="false" afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/finetune词向量模型.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/huizong.py" beforeDir="false" afterPath="$PROJECT_DIR$/知识图谱项目/kg加深度学习/huizong.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +81,8 @@
       <recent name="E:\Users\Administrator\PycharmProjects\fairseq-gec\服务器网页展示\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.huizong修改为词向量 (1)">
-    <configuration name="23232" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.huizong">
+    <configuration name="213213成熟的一套kg解决qa的方案" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fairseq-gec" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,12 +90,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="sftp://root@127.0.0.1:10022/usr/bin/python3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识图谱项目/kg加深度学习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识图谱项目/句法依存分析和kg的方案/句子分析" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识图谱项目/kg加深度学习/23232.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识图谱项目/句法依存分析和kg的方案/句子分析/213213成熟的一套kg解决qa的方案.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,19 +238,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.run_language_modeling" />
-      <item itemvalue="Python.23232" />
       <item itemvalue="Python.huizong" />
       <item itemvalue="Python.huizong修改为词向量" />
       <item itemvalue="Python.huizong修改为词向量 (1)" />
       <item itemvalue="Python.finetune词向量模型" />
+      <item itemvalue="Python.213213成熟的一套kg解决qa的方案" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.huizong" />
+        <item itemvalue="Python.213213成熟的一套kg解决qa的方案" />
         <item itemvalue="Python.huizong修改为词向量 (1)" />
         <item itemvalue="Python.finetune词向量模型" />
-        <item itemvalue="Python.huizong" />
         <item itemvalue="Python.huizong修改为词向量" />
-        <item itemvalue="Python.23232" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +358,7 @@
       <workItem from="1596967310213" duration="44948000" />
       <workItem from="1597212409690" duration="49485000" />
       <workItem from="1597463380895" duration="32199000" />
-      <workItem from="1597588597547" duration="52904000" />
+      <workItem from="1597588597547" duration="57920000" />
     </task>
     <servers />
   </component>
@@ -445,38 +437,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="604" y="143" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595725279250" />
-    <state width="1237" height="307" key="GridCell.Tab.0.bottom" timestamp="1597738293927">
+    <state width="1237" height="256" key="GridCell.Tab.0.bottom" timestamp="1597744159551">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="307" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597738293927" />
-    <state width="1237" height="307" key="GridCell.Tab.0.center" timestamp="1597738293927">
+    <state width="1237" height="256" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597744159551" />
+    <state width="1237" height="256" key="GridCell.Tab.0.center" timestamp="1597744159551">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="307" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597738293927" />
-    <state width="1237" height="307" key="GridCell.Tab.0.left" timestamp="1597738293927">
+    <state width="1237" height="256" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1597744159551" />
+    <state width="1237" height="256" key="GridCell.Tab.0.left" timestamp="1597744159551">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="307" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597738293927" />
-    <state width="1237" height="307" key="GridCell.Tab.0.right" timestamp="1597738293927">
+    <state width="1237" height="256" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1597744159551" />
+    <state width="1237" height="256" key="GridCell.Tab.0.right" timestamp="1597744159551">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="307" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597738293927" />
-    <state width="1237" height="170" key="GridCell.Tab.1.bottom" timestamp="1597734972661">
+    <state width="1237" height="256" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1597744159551" />
+    <state width="1237" height="155" key="GridCell.Tab.1.bottom" timestamp="1597743300455">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="170" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597734972661" />
-    <state width="1237" height="170" key="GridCell.Tab.1.center" timestamp="1597734972661">
+    <state width="1237" height="155" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1597743300455" />
+    <state width="1237" height="155" key="GridCell.Tab.1.center" timestamp="1597743300454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="170" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597734972661" />
-    <state width="1237" height="170" key="GridCell.Tab.1.left" timestamp="1597734972661">
+    <state width="1237" height="155" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1597743300454" />
+    <state width="1237" height="155" key="GridCell.Tab.1.left" timestamp="1597743300454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="170" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597734972661" />
-    <state width="1237" height="170" key="GridCell.Tab.1.right" timestamp="1597734972661">
+    <state width="1237" height="155" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1597743300454" />
+    <state width="1237" height="155" key="GridCell.Tab.1.right" timestamp="1597743300454">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="170" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597734972661" />
+    <state width="1237" height="155" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1597743300454" />
     <state x="127" y="0" key="SettingsEditor" timestamp="1597046113236">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -1319,6 +1311,11 @@
           <line>91</line>
           <option name="timeStamp" value="467" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/知识图谱项目/kg加深度学习/huizong.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1341,6 +1338,12 @@
         <watch expression="a" />
         <watch expression=" np.linalg.norm(a, axis=1, keepdims=True)" />
         <watch expression="np.dot(a, b.T)" />
+        <watch expression="seg[i[0]-1]" />
+        <watch expression="i[0]" />
+        <watch expression="ner" language="Python" />
+        <watch expression="ner[0]" />
+        <watch expression="ner" />
+        <watch expression="dep" />
       </configuration>
     </watches-manager>
   </component>
@@ -1379,7 +1382,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$12321321.coverage" NAME="12321321 Coverage Results" MODIFIED="1597379521739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/fairseq_gec$c__1_.coverage" NAME="c (1) Coverage Results" MODIFIED="1593220069190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989/888888888888888/889" />
     <SUITE FILE_PATH="coverage/fairseq_gec$565645645.coverage" NAME="565645645 Coverage Results" MODIFIED="1597225162455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$213213kgqa.coverage" NAME="213213成熟的一套kg解决qa的方案 Coverage Results" MODIFIED="1597656958927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱项目/句法依存分析和kg的方案/句子分析" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$213213kgqa.coverage" NAME="213213成熟的一套kg解决qa的方案 Coverage Results" MODIFIED="1597743300423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱项目/句法依存分析和kg的方案/句子分析" />
     <SUITE FILE_PATH="coverage/fairseq_gec$a.coverage" NAME="a Coverage Results" MODIFIED="1594741930223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8989谢兄pickle处理bug/888888888888888/889" />
     <SUITE FILE_PATH="coverage/fairseq_gec$bert4keras_extract_feature.coverage" NAME="bert4keras_extract_feature Coverage Results" MODIFIED="1597721167191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/albert使用/albert-vec-support" />
     <SUITE FILE_PATH="coverage/fairseq_gec$99999999999.coverage" NAME="99999999999 Coverage Results" MODIFIED="1592745238853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1474,7 +1477,7 @@
     <SUITE FILE_PATH="coverage/fairseq_gec$pre_data_byOnlyOneBook__1_.coverage" NAME="pre_data_byOnlyOneBook (1) Coverage Results" MODIFIED="1596504555455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/GPT2-Chinese-master修改为mega版本" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train2byZhangcpu.coverage" NAME="train2byZhangcpu Coverage Results" MODIFIED="1596765711715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/元学习/MetaOptNet-master" />
     <SUITE FILE_PATH="coverage/fairseq_gec$11111111.coverage" NAME="11111111 Coverage Results" MODIFIED="1597301859157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/区块链" />
-    <SUITE FILE_PATH="coverage/fairseq_gec$huizong.coverage" NAME="huizong Coverage Results" MODIFIED="1597735193420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱项目/kg加深度学习" />
+    <SUITE FILE_PATH="coverage/fairseq_gec$huizong.coverage" NAME="huizong Coverage Results" MODIFIED="1597744159545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识图谱项目/kg加深度学习" />
     <SUITE FILE_PATH="coverage/fairseq_gec$eval_lm.coverage" NAME="eval_lm Coverage Results" MODIFIED="1594801149907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-456540730/1397887433/fairseq_cli" />
     <SUITE FILE_PATH="coverage/nlp$preprocess__1_.coverage" NAME="preprocess (1) Coverage Results" MODIFIED="1595727970690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/transformer-project_byFengge/latest-fixed_by_vocab" />
     <SUITE FILE_PATH="coverage/fairseq_gec$train_tpu.coverage" NAME="train_tpu Coverage Results" MODIFIED="1596535260711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gpt2做中文nlg/gpt2-ml-master/train" />
